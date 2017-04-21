@@ -1,1 +1,1 @@
-This is my personal homepage designed by the Jekyll theme Notepad designed by [@hmfaysal](https://twitter.com/hmfaysal)
+This is my personal homepage designed using the Jekyll theme Notepad by [@hmfaysal](https://twitter.com/hmfaysal)
