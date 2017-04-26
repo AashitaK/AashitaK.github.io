@@ -12,6 +12,12 @@ share: true
 
 One of the things I love about New Orleans is its warm and optimistic weather. The bright and sunny days happen all year round, at times more often than I wish for. I let ```pandas``` and `matplotlib` tell the rest of the story and give a clear picture of the temperature trends in New Orleans over 2005-2015.
 
+<figure>
+  <img src = "" alt = "Temperature graph">
+  <figcaption>
+</figure>
+
+
 In the notebook, the highest and lowest temperatures for New Orleans is extracted for each day of the year over the 
 period 2005-2014 using `pandas`. 
 These highs and lows are plotted as line graphs using `matplotlib` and 
