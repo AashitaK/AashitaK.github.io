@@ -24,27 +24,27 @@ The idea and guidance for this exercise is taken from the online course [Applied
 
 The temperatures over the period Jan 01, 2005 to Dec 31, 2015 in the ready-to-use `csv` format can be found in my github repository [here](https://github.com/AashitaK/Plotting-Record-Temperatures). The `pandas` library is used to extract the temperature in Dataframes.
 
+Reading the data from the csv file into pandas dataframe
 ```python
 import pandas as pd
 import numpy as np
 filename = "data_temperatures_nola.csv"
-df = pd.read_csv(filename) # Reads the data from the csv file into pandas dataframe
-# The dataframe has temperatures for New Orleans from multiple locations in the city and taken at multiple 
-# times of the day from Jan 01, 2005 to Dec 31, 2015.
-# Temperatures are given at tenths of degrees celsius.
-
-# The following is preparing the dataframe to extract the desired data
+df = pd.read_csv(filename) 
+```
+Temperatures are given at tenths of degrees celsius. The following is preparing the dataframe to extract the desired data
+```python
 df.loc[:,'Data_Value'] *= 0.1 # Dividing all temperature entries by 10 to convert them to degree celsius
 df['Date'] = pd.to_datetime(df['Date']) # Changing the dtype of the date to pandas datetime 
-
-# Setting up the sorted multi-index consisting of month and days so as to help grouping rows later for each 
-# day of the year
+```
+Setting up the sorted multi-index consisting of month and days so as to help grouping rows later for each day of the year.
+```python
 df['Day'] = pd.DatetimeIndex(df['Date']).day 
 df['Month'] = pd.DatetimeIndex(df['Date']).month 
 df = df.set_index(['Month','Day']) 
 df.sort_index(inplace = True)
-
-# Discarding all the entries for 29th Feb of any year; only 365 days of the year are considered
+```
+Discarding all the entries for 29th Feb of any year; only 365 days of the year are considered
+```python
 selected_df = df.loc[2,29] 
 df = df[~df.index.isin(selected_df.index)]
 ```
