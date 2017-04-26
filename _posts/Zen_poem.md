@@ -12,8 +12,11 @@ share: true
 A Poem by a Taoist Priest
 
 Into a soul absolutely free
+
 From thoughts and emotion,
+
 Even the tiger finds no room
+
 To insert its fierce claws
 
 One and the same breeze passes
