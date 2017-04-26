@@ -13,8 +13,8 @@ share: true
 One of the things I love about New Orleans is its warm and optimistic weather. The bright and sunny days happen all year round, at times more often than I wish for. I let ```pandas``` and `matplotlib` tell the rest of the story and give a clear picture of the temperature trends in New Orleans over 2005-2015.
 
 <figure>
-  <img src = "" alt = "Temperature graph">
-  <figcaption>
+  <img src = "{{ site.url }}/images/NOLATemp.png" alt = "Temperature graph">
+  <figcaption>Temperature Trends in NOLA </figcaption>
 </figure>
 
 
