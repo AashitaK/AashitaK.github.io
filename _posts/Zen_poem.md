@@ -1,0 +1,40 @@
+---
+layout: post
+title: A Poem 
+description: "A Poem by a Taoist Priest"
+modified: 2017-04-21
+category: articles
+tags: [plotting]
+imagefeature: coverNOLA.jpg
+comments: true
+share: true
+---
+A Poem by a Taoist Priest
+
+Into a soul absolutely free
+From thoughts and emotion,
+Even the tiger finds no room
+To insert its fierce claws
+
+One and the same breeze passes
+Over the pines on the mountain
+And the oak tress in the valley;
+And why do they give different notes
+
+No thinking, no reflecting,
+Perfect emptiness;
+Yet therein something moves,
+Following its own course
+
+The eye sees it,
+But no hand can take hold of it –
+The moon in the stream
+
+Clouds and mists
+They are midair transformations;
+Above them eternally shine the sun and the moon
+ 
+Victory is for the one,
+Even before combat,
+Who has no thought of himself,
+Abiding is the no-mind-ness of Great Origin
