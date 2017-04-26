@@ -5,7 +5,7 @@ description: "A Poem by a Taoist Priest"
 modified: 2017-04-21
 category: articles
 tags: [plotting]
-imagefeature: coverNOLA.jpg
+imagefeature: Tao.jpg
 comments: true
 share: true
 ---
