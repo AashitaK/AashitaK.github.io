@@ -176,7 +176,7 @@ html, body, .notepad-post-container, .notepad-post-header {
     font-style: normal;
     font-variant: normal;
     font-family: 'FontAwesome';
-    line-height: 1;
+    line-height: 3;
     speak: none;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale; }
