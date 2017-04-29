@@ -7,6 +7,11 @@
 .my-fa-twittr:before {
   content: "\f099";
 }
+
+.my-fa-linkedn:before {
+  content: "\f0e1";
+}
+
 .my-fa-facebok:before {
   content: "\f09a";
 }
