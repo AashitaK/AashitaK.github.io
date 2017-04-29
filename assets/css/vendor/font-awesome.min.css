@@ -10,3 +10,7 @@
 .my-fa-facebook:before {
   content: "\f09a";
 }
+
+.my-fa-github:before {
+  content: "\f09b";
+}
