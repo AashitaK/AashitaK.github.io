@@ -38,15 +38,17 @@ links:
     url: /
     external: false
     icon: home
-  - title: Featured Posts
-    url: /featured
+#  - title: Featured Posts
+#    url: /featured
   - title: Categories
     url: /categories
   - title: About
     url: /about
+  - title: Resume
+    url: /resume
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Asia/Dhaka
+timezone:    America/Chicago
 future:      true
 #highlighter: pygments
 markdown:    kramdown
