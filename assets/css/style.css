@@ -384,8 +384,8 @@ nav.pagination {
       text-align: left;
       float: left; }
     .notepad-site-footer .social-icons {
-      /*margin-left: 15px;
-      margin-right: 15px; */     
+      margin-left: 15px;
+      margin-right: 15px;   
       text-align: right;
       float: right; } }
 
