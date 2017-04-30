@@ -1,33 +1,37 @@
 <footer class="notepad-site-footer">
-    <div class="copyright">
-         <section>All content copyright <a href="{{ site.url }}/about">{{ site.owner.name }}</a> &copy; {{ site.time | date: '%Y' }} &bull; All rights reserved.</section>
-        <section>Published with <a class="icon-ghost" href="https://jekyllrb.com/">Jekyll</a> using 
-            <a href = "https://github.com/hmfaysal/Notepad">Notepad theme </a> designed by <a href = "https://github.com/hmfaysal">hmfaysal. </a> </section>
-    </div>
     <div class="social-icons">
         {% if site.owner.github %}
-        <a href="http://github.com/{{ site.owner.github }}">
-            <span class="fa-stack fa-lg">
-                <!--i class="fa fa-circle fa-stack-4x fa-inverse"></i-->
-                <i class="fa fa-github fa-stack-2x fa-inverse"></i>
+        <a href="http://github.com/{{ site.owner.github }}" title="Connect on Github",>
+            <span class="fa-stack fa-2x">
+                <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                <i class="fa fa-github fa-stack-1x"></i>
             </span>
         </a>
         {% endif %}
         
         {% if site.owner.linkedin %}
-        <a href="http://linkedin.com/{{ site.owner.linkedin }}">
-            <span class="fa-stack fa-lg">
-                <!--i class="fa fa-circle fa-stack-1x fa-inverse"></i-->
-                <i class="fa fa-linkedin fa-stack-2x fa-inverse"></i>
+        <a href="http://linkedin.com/{{ site.owner.linkedin }}" title="Connect on LinkedIn">
+            <span class="fa-stack fa-2x">
+                <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                <i class="fa fa-linkedin fa-stack-1x"></i>
             </span>
         </a>
         {% endif %}
         
         {% if site.owner.twitter %}
-        <a href="http://twitter.com/{{ site.owner.twitter }}">
-            <span class="fa-stack fa-lg">
-                <!--i class="fa fa-circle fa-stack-4x fa-inverse"></i-->
-                <i class="fa fa-twitter fa-stack-2x fa-inverse"></i>
+        <a href="http://twitter.com/{{ site.owner.twitter }}" title="Follow on Twitter">
+            <span class="fa-stack fa-2x">
+                <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                <i class="fa fa-twitter fa-stack-1x"></i>
+            </span>
+        </a>
+        {% endif %}
+
+        {% if site.owner.email %}
+        <a href="mailto:{{ site.owner.email }}?subject=Contacting+aashitak.com&body=Hello+Aashita" title="Email me">
+            <span class="fa-stack fa-2x">
+                <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                <i class="fa fa-envelope fa-stack-1x"></i>
             </span>
         </a>
         {% endif %}
@@ -59,6 +63,12 @@
         </a>
         {% endif %}-->
     </div>
-    
+    <div class="copyright">
+         <section>All content copyright <a href="{{ site.url }}/about">{{ site.owner.name }}</a> &copy; {{ site.time | date: '%Y' }} &bull; All rights reserved &bull;
+         <!--/section><section-->
+         Published with <a class="icon-ghost" href="https://jekyllrb.com/">Jekyll</a> using <a href = "https://github.com/hmfaysal">hmfaysal's</a> 
+            <a href = "https://github.com/hmfaysal/Notepad">Notepad theme</a>.
+            </section>
+    </div>
     <div class="cf"></div>
 </footer>
