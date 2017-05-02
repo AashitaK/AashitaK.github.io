@@ -17,7 +17,7 @@ One of the things I love about New Orleans is its warm and optimistic weather. T
   <figcaption>Temperature Trends in NOLA </figcaption>
 </figure>
 
-In the graph, the record highs and lows in the temperature over the period 2005-2014 are plotted as line graphs and then record breaking temperatures for the year 2015 are scattered in the same graph. 
+In the graph, the record highs and lows in the temperature over the period 2005-2014 are plotted as line graphs and then record breaking temperatures for the year 2015 are scattered as red and blue dots in the same graph. 
 The idea and guidance for this exercise is taken from the online course [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting) by University of Michigan on [coursera](https://www.coursera.org/). 
 
 [The National Centers for Environmental Information (NCEI) Daily Global Historical Climatology Network (GHCN-Daily)](https://www1.ncdc.noaa.gov/pub/data/ghcn/daily/readme.txt) contains daily climate records from 12 stations near New Orleans. 
