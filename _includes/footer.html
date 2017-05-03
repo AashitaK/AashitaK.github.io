@@ -36,6 +36,15 @@
         </a>
         {% endif %}
         
+        {% if site.feed %}
+        <a href="{{ site.url }}/feed.xml">
+            <span class="fa-stack fa-2x">
+                <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                <i class="fa fa-envelope fa-stack-1x"></i>
+            </span>
+        </a>
+        {% endif %}
+        
         <!--{% if site.owner.google_plus %}
         <a href="{{ site.owner.google_plus }}">
             <span class="fa-stack fa-lg">
