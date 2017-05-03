@@ -24,7 +24,7 @@ The idea and guidance for this exercise is taken from the online course [Applied
 
 The temperatures over the period Jan 01, 2005 to Dec 31, 2015 in the ready-to-use `csv` format can be found in my github repository [here](https://github.com/AashitaK/Plotting-Record-Temperatures). The `pandas` library is used to extract the temperature in Dataframes.
 
-Reading the data from the csv file into pandas dataframe
+Reading the data from the csv file into pandas dataframe:
 ```python
 import pandas as pd
 import numpy as np
