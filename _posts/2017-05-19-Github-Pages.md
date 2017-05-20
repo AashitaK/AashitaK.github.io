@@ -15,10 +15,10 @@ mathjax:
 
 The [Github Pages](https://pages.github.com/) lets you make your own website. 
 
-* Free - Hosting is free, all you need is a github account.
-* Simple - No coding (not even html/css), no server maintainence, no buying domain name, and no maintaining database. In case you are wondering, no need to learn git either; this blog shows you how. 
-* Fast - It uses static site generator Jekyll. Jekyll makes your site fast to load - faster than any wordpress site and handles traffic very well. FYI, Obama campaign used Jekyll and so does Netflix.
-* Secure - No vulnerability to hacking unless your github password is hacked.
+* **_Free_** - Hosting is free, all you need is a github account.
+* **_Simple_** - No coding (not even html/css), no server maintainence, no buying domain name, and no maintaining database. In case you are wondering, no need to learn git either; this blog shows you how. 
+* **_Fast_** - It uses static site generator Jekyll. Jekyll makes your site fast to load - faster than any wordpress site and handles traffic very well. FYI, Obama campaign used Jekyll and so does Netflix.
+* **_Secure_** - No vulnerability to hacking unless your github password is hacked.
 
 Advanced:
 Easy to set up custom domains.
