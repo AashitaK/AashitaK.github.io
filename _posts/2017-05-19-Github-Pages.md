@@ -1,23 +1,22 @@
 ---
 layout: post
-title: A Poem 
-description: "A Poem by a Taoist Priest"
+title: Set up your website using Github Pages 
+description: "Set up your website using Github Pages"
 headline:
 modified: 
 category: articles
 tags: [webpage]
-imagefeature: empty.png
+imagefeature: 
 comments: true
 share: true
 mathjax:
 ---
 
-Make your own webpage using Github Pages
 
-The Github Pages lets you make your own website. 
+The [Github Pages](https://pages.github.com/) lets you make your own website. 
 
 * Free - Hosting is free, all you need is a github account.
-* Simple - No coding (not even html/css), no server maintainence, no buying domain name, and no maintaining database. In case you are wondering, no need to learn git either. 
+* Simple - No coding (not even html/css), no server maintainence, no buying domain name, and no maintaining database. In case you are wondering, no need to learn git either; this blog shows you how. 
 * Fast - It uses static site generator Jekyll. Jekyll makes your site fast to load - faster than any wordpress site and handles traffic very well. FYI, Obama campaign used Jekyll and so does Netflix.
 * Secure - No vulnerability to hacking unless your github password is hacked.
 
