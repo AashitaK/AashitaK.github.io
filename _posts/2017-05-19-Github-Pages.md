@@ -44,6 +44,6 @@ Advanced:
 * Set up a custom domain.
 * Use google analytics.
 
-Some related blogs that I find useful:
+Some related blogs that I learnt from and find useful:
 
 Any questions, comments and/or suggestions for future blogs are welcome! If you find this blog useful, the icons below lets you share it in social media.
