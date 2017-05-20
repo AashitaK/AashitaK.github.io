@@ -23,7 +23,7 @@ The [Github Pages](https://pages.github.com/) lets you make your own website.
 Steps:
 * Set up a Github account if you dont already have one
 * Create a repository named *your_username.github.io*
-* Publish your Github Page
+* Publish Github Page
 * Add content 
 
 Advanced:
