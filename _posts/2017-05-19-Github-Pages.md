@@ -39,4 +39,6 @@ Advanced:
 * Customize your website using Jekyll themes.
 * Use google analytics.
 
+Some related blogs that I find useful:
+
 Any questions, comments and/or suggestions for future blogs are welcome! If you find this blog useful, the icons below lets you share it in social media.
