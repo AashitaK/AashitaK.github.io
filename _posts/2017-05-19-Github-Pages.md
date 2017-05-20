@@ -24,6 +24,7 @@ Git, Github and Github Pages are not to be confused with each other:
 * Git is a version control system that lets you access previous versions of your work you asked git to keep track of. 
 * Github is a social site that lets people share their work and/or collaborate on projects. 
 * Github Pages lets anyone with a github account publish their work - code or otherwise. 
+
 In case you are wondering, its not a prerequisite to learn git or to be active in github to go ahead and make your website. This blog is written keeping in mind someone who is unfamiliar with all of the above. 
 
 Steps:
@@ -34,7 +35,7 @@ Steps:
 
 Advanced:
 * Include a comment section, like I am using disqus for this blog.
-* Set up a custom domain
+* Set up a custom domain.
 * Customize your website using Jekyll themes.
 * Use google analytics.
 
