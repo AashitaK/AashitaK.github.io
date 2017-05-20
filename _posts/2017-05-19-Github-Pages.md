@@ -31,4 +31,4 @@ Advanced:
 * Set up a custom domain
 * Customize your website using Jekyll themes.
 
-Any questions, comments and/or suggestions for future blogs are welcome! If you find this blog useful, below are the icons to share it.
+Any questions, comments and/or suggestions for future blogs are welcome! If you find this blog useful, the icons below lets you share it in social media.
