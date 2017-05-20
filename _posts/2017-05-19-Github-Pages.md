@@ -28,10 +28,10 @@ Git, GitHub and GitHub Pages are not to be confused with each other:
 In case you are wondering, its not a prerequisite to learn git or to be active in github to go ahead and make your website. This blog is written keeping in mind someone who is unfamiliar with all of the above. 
 
 Steps:
-* Set up a GitHub account if you dont already have one
-* Create a repository named *your_username.github.io*
-* Publish GitHub Page with URL *http://your_username.github.io*
-* Add content
+1. Set up a GitHub account if you dont already have one
+2. Create a repository named *your_username.github.io*
+3. Publish GitHub Page with URL *http://your_username.github.io*
+4. Add content
 
 Advanced:
 * Include a comment section, like I am using disqus for this blog.
