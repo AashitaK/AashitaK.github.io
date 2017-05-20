@@ -30,3 +30,5 @@ Advanced:
 * Include a comment section, like I am using disqus for this blog.
 * Set up a custom domain
 * Customize your website using Jekyll themes.
+
+Any questions, comments and/or suggestions for future blogs are welcome! 
