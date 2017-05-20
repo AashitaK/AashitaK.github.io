@@ -17,8 +17,10 @@ The [Github Pages](https://pages.github.com/) lets you make your own website.
 
 * **_Free_** - Hosting is free, all you need is a github account.
 * **_Fast_** - It supports Jekyll, a static site generator. Jekyll makes your site load fast - faster than any WordPress site and it handles traffic very well. FYI, [Obama campaign](https://contribute.ofa.us/donation/index-ovf-ec-alt-1.html) used Jekyll and so does Netflix.
-* **_Simple_** - No coding required (not even html/css, Jekyll will do it for you), no server maintainence, no setting up domain, and no maintaining database. In case you are wondering, no need to learn git either; this blog shows you how. 
+* **_Simple_** - No coding required (not even html/css, Jekyll will do it for you), no server maintainence, no setting up domain, and no maintaining database. 
 * **_Secure_** - No vulnerability to hacking unless your github password is hacked.
+
+Git, Github and Github Pages are not to be confused with each other. Git is a version control system that lets you access previous versions of your work you asked git to keep track of. Github is a social site that lets people work on a projects with each other and/or share their work publicly. Github Pages lets anyone with a github account publish their work - code or otherwise. In case you are wondering, its not a prerequisite to learn git or to be active in github to go ahead and make your website. This blog is written keeping in mind someone who is unfamiliar with all of the above. 
 
 Steps:
 * Set up a Github account if you dont already have one
