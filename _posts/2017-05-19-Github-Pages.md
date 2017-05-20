@@ -33,10 +33,15 @@ Steps:
 3. Publish GitHub Page with URL *http://your_username.github.io*
 4. Add content
 
+Step 1: Your username will become part of the url of your website. 
+Step 2: The repository name must be in the right format *your_username.github.io*. Add a `ReadMe.md` file.
+Step 3: Go to settings, select theme and publish.
+Step 4: The content is added in the ReadMe file. Its simply writing as you would write and commit. Jekyll reads it as a markup language. There are a few things you need to know.
+
 Advanced:
+* Customize your website using Jekyll themes.
 * Include a comment section, like I am using disqus for this blog.
 * Set up a custom domain.
-* Customize your website using Jekyll themes.
 * Use google analytics.
 
 Some related blogs that I find useful:
