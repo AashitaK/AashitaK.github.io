@@ -23,15 +23,14 @@ The idea and guidance for this exercise is taken from the online course [Applied
 The data, viz daily climate records from 12 stations near New Orleans, used here can be found at [The National Centers for Environmental Information (NCEI) Daily Global Historical Climatology Network (GHCN-Daily)](https://www1.ncdc.noaa.gov/pub/data/ghcn/daily/readme.txt).
 The temperatures over the period Jan 01, 2005 to Dec 31, 2015 in the ready-to-use `csv` format can also be found in my github repository [here](https://github.com/AashitaK/Plotting-Record-Temperatures). 
 
-The `pandas` library is used to extract the temperature in Dataframes.
-Reading the data from the csv file into pandas dataframe:
+Using the `pandas` library, the data from the csv file is extracted into pandas dataframe:
 ```python
 import pandas as pd
 import numpy as np
 filename = "data_temperatures_nola.csv"
 df = pd.read_csv(filename) 
 ```
-Temperatures are given at tenths of degrees celsius. The following is preparing the dataframe to extract the desired data
+The following is preparing the dataframe to extract the desired data
 ```python
 df.loc[:,'Data_Value'] *= 0.1 # Dividing all temperature entries by 10 to convert them to degree celsius
 df['Date'] = pd.to_datetime(df['Date']) # Changing the dtype of the date to pandas datetime 
