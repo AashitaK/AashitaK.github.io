@@ -13,7 +13,7 @@ share: true
 One of the things I love about New Orleans is its warm and optimistic weather. The temperature trends in New Orleans over the period 2005-2015 is plotted using the python libraries ```pandas``` and `matplotlib` to give a clear picture:
 
 <figure>
-  <img src = "{{ site.url }}/images/NOLATemp.png" alt = "Temperature graph">
+  <img src = "{{ site.url }}/images/TempNOLA/NOLATemp.png" alt = "Temperature graph">
   <figcaption>Temperature Trends in NOLA </figcaption>
 </figure>
 
@@ -178,6 +178,9 @@ plt.plot(date_range, max_temp.values, '#FF9100', linewidth = 1, alpha=0.75, labe
 plt.plot(date_range, min_temp.values, '#80D8FF', linewidth = 1, alpha=0.75, label = '2005-2014 Lows') 
 plt.fill_between(date_range, min_temp, max_temp, facecolor='#EEEEEE')
 ```
+<figure>
+  <img src = "{{ site.url }}/images/TempNOLA/fig1.png" alt = "Temperature graph 1">
+</figure>
 
 Adding semi-transparent legend with no border:
 
@@ -189,6 +192,9 @@ plt.legend(loc = 1).get_frame().set_edgecolor('white')
 my_label_max = "2015 Highs"
 my_label_min = "2015 Lows"
 ```
+<figure>
+  <img src = "{{ site.url }}/images/TempNOLA/fig2.png" alt = "Temperature graph 2">
+</figure>
 
 Scattering record breaking temperatures from the year 2015 as red and blue dots over the graph:
 
@@ -206,6 +212,9 @@ for idx, rows in min_temp_df_2015.iterrows():
 # Adding the labels for the max and min points to the above legend 
 ax.legend(loc = 1).get_frame().set_edgecolor('white') 
 ```
+<figure>
+  <img src = "{{ site.url }}/images/TempNOLA/fig3.png" alt = "Temperature graph 3">
+</figure>
 
 This is to set up the x-axis:
 
@@ -230,6 +239,9 @@ for xtick in xticks:
     xtick.tick2line.set_markersize(0)
     xtick.label1.set_horizontalalignment('center')
 ```
+<figure>
+  <img src = "{{ site.url }}/images/TempNOLA/fig4.png" alt = "Temperature graph 4">
+</figure>
 
 This is to set up the left y-axis for temperatures in Celsius:
 
@@ -247,6 +259,9 @@ yticks[1].label1.set_visible(False) # Making -10 degrees Celsius disappear to ma
 ax.yaxis.set_major_locator(ticker.MultipleLocator(10)) # Putting major ticks at every 10 degrees Celsius
 ax.yaxis.set_minor_locator(ticker.MultipleLocator(5)) # Putting minor ticks at every 5 degrees Celsius
 ```
+<figure>
+  <img src = "{{ site.url }}/images/TempNOLA/fig5.png" alt = "Temperature graph 5">
+</figure>
 
 This is to set up the right y-axis for temperatures in Fahrenheit:
 
@@ -260,3 +275,6 @@ ax2.set_ylim(C_to_F(ymin), C_to_F(ymax)) # (ymin, ymax) are defined above
 ax2.yaxis.set_major_locator(ticker.MultipleLocator(20)) # Putting major ticks at every 20 degrees Fahrenheit
 ax2.yaxis.set_minor_locator(ticker.MultipleLocator(5)) # Putting major ticks at every 5 degrees Fahrenheit
 ```
+<figure>
+  <img src = "{{ site.url }}/images/TempNOLA/fig6.png" alt = "Temperature graph 6">
+</figure>
