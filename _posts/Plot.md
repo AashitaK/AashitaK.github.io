@@ -1,31 +1,14 @@
----
-layout: post
-title: Plotting record temperatures for New Orleans 
-description: "Plotting record temperatures for New Orleans over the period 2005-2015 using pandas and matplotlib."
-modified: 2017-04-21
-category: articles
-tags: [plotting]
-imagefeature: coverNOLA.jpg
-comments: true
-share: true
----
 
-One of the things I love about New Orleans is its warm and optimistic weather. The temperature trends in New Orleans over the period 2005-2015 is plotted using the python libraries ```pandas``` and `matplotlib` to give a clear picture:
+# Plotting record temperatures for New Orleans over the period 2005-2015
+### Aashita Kesarwani
 
-<figure>
-  <img src = "{{ site.url }}/images/NOLATemp.png" alt = "Temperature graph">
-  <figcaption>Temperature Trends in NOLA </figcaption>
-</figure>
+This project is taken from an assignment for the the online course [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting).
 
-In the graph, the record highs and lows in the temperature over the period 2005-2014 are given as line graphs and the record breaking temperatures for the year 2015 are scattered over as red and blue dots. 
-The idea and guidance for this exercise is taken from the online course [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting) by University of Michigan on [coursera](https://www.coursera.org/). 
-
-The data, viz daily climate records from 12 stations near New Orleans, used here can be found at [The National Centers for Environmental Information (NCEI) Daily Global Historical Climatology Network (GHCN-Daily)](https://www1.ncdc.noaa.gov/pub/data/ghcn/daily/readme.txt).
-The temperatures over the period Jan 01, 2005 to Dec 31, 2015 in the ready-to-use `csv` format can also be found in my github repository [here](https://github.com/AashitaK/Plotting-Record-Temperatures). 
+National Oceanic and Atmospheric Administration(NOAA) dataset has been stored in the file `data_temperatures_nola.csv`. The data contains daily climate records coming from the 12 stations of The National Centers for Environmental Information (NCEI) [Daily Global Historical Climatology Network](https://www1.ncdc.noaa.gov/pub/data/ghcn/daily/readme.txt) (GHCN-Daily)  near **New Orleans, Louisiana, United States** over the period from Jan 01, 2005 to Dec 31, 2015. 
 
 The code is written for Python 3.6. Though it runs for Python 2 versions, the visuals, especially the colors that are taken from the Google Material Design color palette, are less appealing.
 
-Using the `pandas` library, the data from the csv file is extracted into the dataframe `df`:
+First we read the data from the file `data_temperatures_nola.csv` into the pandas dataframe `df`:
 
 
 ```python
