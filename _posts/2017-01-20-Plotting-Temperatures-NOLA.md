@@ -53,7 +53,7 @@ df.head(5)
 
 
 
-<div>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -102,7 +102,7 @@ df.head(5)
     </tr>
   </tbody>
 </table>
-</div>
+
 
 
 
