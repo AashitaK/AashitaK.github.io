@@ -94,7 +94,6 @@ min_temp_df_2015 = min_temp_df_2015.groupby(level = ['Month', 'Day']).min()[['Da
 
 Plotting graphs for record high and low temperatures for each day of the year over the period 2005-2014 using ```matplotlib```:
 
-
 ```python
 import matplotlib.pyplot as plt
 import matplotlib.dates as dates
