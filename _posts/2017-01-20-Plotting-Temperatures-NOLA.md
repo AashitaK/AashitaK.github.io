@@ -109,13 +109,9 @@ plt.plot(date_range, max_temp.values, '#FF9100', linewidth = 1, alpha=0.75, labe
 plt.plot(date_range, min_temp.values, '#80D8FF', linewidth = 1, alpha=0.75, label = '2005-2014 Lows') 
 plt.fill_between(date_range, min_temp, max_temp, facecolor='#EEEEEE')
 ```
-<figure>
-  <img src = "{{ site.url }}/images/TempNOLA/fig1.png" alt = "Temperature graph 1">
-</figure>
+![Temperature graph 1]({{ site.url }}/images/TempNOLA/fig1.png)
 
-Adding semi-transparent legend with no border:
-
-
+Adding semi-transparent legend with no border:  
 ```python
 plt.legend(loc = 1).get_frame().set_edgecolor('white') 
 
