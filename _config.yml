@@ -44,8 +44,8 @@ links:
 #    url: /featured
   - title: About
     url: /about
-  - title: Resume
-    url: /resume
+#  - title: Resume
+#    url: /resume
   - title: Blogs
     url: /blogs
 
