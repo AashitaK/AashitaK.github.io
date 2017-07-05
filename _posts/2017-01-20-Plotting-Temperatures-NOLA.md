@@ -47,8 +47,6 @@ The temperatures are given at tenths of degrees celsius and are taken from multi
 times of the day everyday from Jan 01, 2005 to Dec 31, 2015.
 
 The dataframe df is now prepared to extract the data in desired format:
-
-
 ```python
 df.loc[:,'Data_Value'] *= 0.1 # Dividing all temperature entries by 10 to convert them to degree celsius
 df['Date'] = pd.to_datetime(df['Date']) # Changing the dtype of the date to pandas datetime 
