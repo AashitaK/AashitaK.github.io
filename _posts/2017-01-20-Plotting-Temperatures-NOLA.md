@@ -10,13 +10,8 @@ comments: true
 share: true
 ---
 
-One of the things I love about New Orleans is its warm and optimistic weather. The temperature trends in New Orleans over the period 2005-2015 is plotted using the python libraries ```pandas``` and `matplotlib` to give a clear picture:
-
+One of the things I love about New Orleans is its warm and optimistic weather. The temperature trends in New Orleans over the period 2005-2015 is plotted using the python libraries ```pandas``` and `matplotlib` to give a clear picture:  
 ![Temperature graph]({{ site.url }}/images/TempNOLA/NOLATemp.png)
-<figure>
-  <img src = "{{ site.url }}/images/TempNOLA/NOLATemp.png" alt = "Temperature graph">
-  <figcaption>Temperature Trends in NOLA </figcaption>
-</figure>
 
 In the graph, the record highs and lows in the temperature over the period 2005-2014 are given as line graphs and the record breaking temperatures for the year 2015 are scattered over as red and blue dots. 
 The idea and guidance for this exercise is taken from the online course [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting) by University of Michigan on [coursera](https://www.coursera.org/). 
