@@ -43,78 +43,10 @@ Each row in the datafile corresponds to a single observation. There are four col
     * TMIN : Minimum temperature 
 * **Data_Value** : data value for element (tenths of degrees C)
 
+The temperatures are given at tenths of degrees celsius and are taken from multiple locations in New Orleans at multiple 
+times of the day everyday from Jan 01, 2005 to Dec 31, 2015.
 
-
-
-```python
-df.head(5)
-```
-
-
-
-
-
-<div>
-<div>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>ID</th>
-      <th>Date</th>
-      <th>Element</th>
-      <th>Data_Value</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>0</th>
-      <td>USW00053917</td>
-      <td>2005-07-06</td>
-      <td>TMAX</td>
-      <td>306</td>
-    </tr>
-    <tr>
-      <th>1</th>
-      <td>USW00012884</td>
-      <td>2011-10-05</td>
-      <td>TMIN</td>
-      <td>211</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>USC00168941</td>
-      <td>2014-09-16</td>
-      <td>TMIN</td>
-      <td>233</td>
-    </tr>
-    <tr>
-      <th>3</th>
-      <td>USC00166676</td>
-      <td>2012-07-20</td>
-      <td>TMIN</td>
-      <td>239</td>
-    </tr>
-    <tr>
-      <th>4</th>
-      <td>USC00168941</td>
-      <td>2009-04-22</td>
-      <td>TMAX</td>
-      <td>283</td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-</div>
-
-
-
-
-The dataframe has temperatures for New Orleans from multiple locations in the city and taken at multiple 
-times of the day from Jan 01, 2005 to Dec 31, 2015. Temperatures are given at tenths of degrees celsius.
-
-The dataframe df is prepared to extract the data in desired format:
+The dataframe df is now prepared to extract the data in desired format:
 
 
 ```python
