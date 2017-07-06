@@ -10,5 +10,5 @@ I am a PhD candidate in Mathematics at Tulane University working in number theor
 $$K_z(x)$$
 
 I am an aspiring data scientist. Here is a [link](https://github.com/AashitaK) to my github account that contains some of simple projects I completed in the process of learning tools for data science and machine learning.
-
+$K_z(x)$
 
