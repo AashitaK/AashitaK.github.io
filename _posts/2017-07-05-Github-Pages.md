@@ -33,12 +33,12 @@ Steps:
 3. Publish GitHub Page with URL *http://your_username.github.io*
 4. Add content
 
-##### Step 1: Sign up for Github or login 
+### Step 1: Sign up for Github or login 
 Your username will become part of the url of your website, so it's best to choose one that is concise, memorable and uniquely identifiable to your name. Github lets you change username anytime but its [not advisable](https://help.github.com/articles/what-happens-when-i-change-my-username/) later on. 
 
 ![]({{ site.url }}/images/GitHubPages/screenshot-1.png){:width="890px"}
 
-##### Step 2: The repository name must be in the right format *your_username.github.io* with your current username. Add a `ReadMe.md` file.
+### Step 2: The repository name must be in the right format *your_username.github.io* with your current username. Add a `ReadMe.md` file.
 
 ![]({{ site.url }}/images/GitHubPages/screenshot-2.png){:width="890px"}
 
@@ -50,7 +50,7 @@ If you just signed up, GitHub might ask you to verify your email address before 
 
 ![]({{ site.url }}/images/GitHubPages/screenshot-5.png){:width="890px"}
 
-##### Step 3: Go to settings, select theme and publish.
+### Step 3: Go to settings, select theme and publish.
 
 ![]({{ site.url }}/images/GitHubPages/screenshot-6.png){:width="890px"}
 
@@ -58,7 +58,7 @@ If you just signed up, GitHub might ask you to verify your email address before 
 
 ![]({{ site.url }}/images/GitHubPages/screenshot-8.png){:width="890px"}
 
-##### Step 4: The content is added in the ReadMe file. 
+### Step 4: The content is added in the ReadMe file. 
 Its simply writing as you would write and Jekyll reads it as a markup language. It has some syntax for formatting and such, summarized [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 ![]({{ site.url }}/images/GitHubPages/screenshot-9.png){:width="890px"}
