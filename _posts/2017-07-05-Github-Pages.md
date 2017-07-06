@@ -63,7 +63,7 @@ Its simply writing as you would write and Jekyll reads it as a markup language. 
 
 ![]({{ site.url }}/images/GitHubPages/screenshot-9.png){:width="890px"}
 
-Once you add and modified the content, the changes are commited same as you would save a file:
+Once you add and modified the content, the changes are commited in the same way as you would save a file:
 
 ![]({{ site.url }}/images/GitHubPages/screenshot-10.png){:width="890px"}
 
