@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Set up your website using Github Pages 
-description: "Set up your website using Github Pages"
+description: "Setting up website using Github Pages"
 headline:
 modified: 
 category: articles
@@ -44,6 +44,6 @@ Advanced:
 * Set up a custom domain.
 * Use google analytics.
 
-Some related blogs that I learnt from and find useful:
+[//]: # (Some related blogs that I learnt from and find useful:)
 
 Any questions, comments and/or suggestions for future blogs are welcome! If you find this blog useful, the icons below lets you share it in social media.
