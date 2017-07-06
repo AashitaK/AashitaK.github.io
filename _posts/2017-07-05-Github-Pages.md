@@ -36,7 +36,7 @@ Steps:
 ##### Step 1: Sign up for Github or login 
 Your username will become part of the url of your website, so it's best to choose one that is concise, memorable and uniquely identifiable to your name. Github lets you change username anytime but its [not advisable](https://help.github.com/articles/what-happens-when-i-change-my-username/) later on. 
 
-![]({{ site.url }}/images/GitHubPages/screenshot-1.png){:width="720px"}
+![]({{ site.url }}/images/GitHubPages/screenshot-1.png){:width="800px"}
 
 ##### Step 2: The repository name must be in the right format *your_username.github.io* with your current username. Add a `ReadMe.md` file.
 ![]({{ site.url }}/images/GitHubPages/screenshot-2.png)
