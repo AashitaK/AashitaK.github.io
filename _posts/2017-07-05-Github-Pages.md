@@ -38,23 +38,35 @@ Your username will become part of the url of your website, so it's best to choos
 
 ![]({{ site.url }}/images/GitHubPages/screenshot-1.png){:width="890px"}
 
-### Step 2: The repository name must be in the right format *your_username.github.io* with your current username. Add a `ReadMe.md` file.
+### Step 2: Create a repository named *your_username.github.io*
+The repository name must be in the right format *your_username.github.io* with your current username. Add a `ReadMe.md` file.
 
 ![]({{ site.url }}/images/GitHubPages/screenshot-2.png){:width="890px"}
 
-If you just signed up, GitHub might ask you to verify your email address before you create the repository.
+If you just signed up, GitHub might ask you to first verify your email address before you create the repository.
 
 ![]({{ site.url }}/images/GitHubPages/screenshot-3.png){:width="890px"}
 
+Select "Initialize this repository with a README":
+
 ![]({{ site.url }}/images/GitHubPages/screenshot-4.png){:width="890px"}
 
+This is how your repository will look like:
+
 ![]({{ site.url }}/images/GitHubPages/screenshot-5.png){:width="890px"}
+ 
+If you forgot to select the option above and a README file is not created, you can create it now with "Create new file" option.
 
 ### Step 3: Go to settings, select theme and publish.
+First, go to the settings in the top bar of your repository and click on the settings. It will open a page like this:
 
 ![]({{ site.url }}/images/GitHubPages/screenshot-6.png){:width="890px"}
 
+Then click on the "Choose a theme":
+
 ![]({{ site.url }}/images/GitHubPages/screenshot-7.png){:width="890px"}
+
+There are many options, out of which I chose _Tactile theme_:
 
 ![]({{ site.url }}/images/GitHubPages/screenshot-8.png){:width="890px"}
 
