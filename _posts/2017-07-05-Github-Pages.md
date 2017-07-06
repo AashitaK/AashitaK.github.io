@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Set up your website using Github Pages 
+title: Setting up website using Github Pages 
 description: "Setting up website using Github Pages"
 headline:
 modified: 
