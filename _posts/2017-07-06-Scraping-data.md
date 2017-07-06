@@ -23,5 +23,9 @@ The data on internet comes in many formats, most commonly JSON, XML and ofcourse
 [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) is one of the widely used Python library for web-scraping i.e. searching through websites on the internet to extract only the relevant data. It is used to parse data from the HTML or XML files. It takes a file and makes a soup out of its content so that the target information can be extracted easily and efficiently from an enormous amount of irrelevant data. 
 
 ### Json
-Json library in Python is specially designed to work with JSON files. 
+Json library in Python is specially designed to work with JSON files. [JSON](http://www.json.org/)(JavaScript Object Notation) is one of the two data-interchange language, the other being XML. There are two type of data structures common to almost all modern programming languages - the collection of key/value pairs, for e.g. dictionaries in Python, and the ordered list of values, for e.g. lists in Python. The simple idea behind the conception of JSON by [Douglas Crockford](https://en.wikipedia.org/wiki/Douglas_Crockford) was that the data format used to exchange data between programming languages be based on these universal data structures. They are called object and array respectively in JSON inheriting the terminology and syntax from JavaScript.
+
+### Xml.etree.ElementTree
+Xml.etree.ElementTree library in Python is specially designed to work with XML files. XML(Extensible Markup Language) is a markup language, like HTML, designed to store and exchange data in a format that is both human-readable and machine-readable. Like HTML, it has tags and a tree-like structure. This library works similar to BeautifulSoup above?
+
 To be continued...
