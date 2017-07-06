@@ -25,7 +25,7 @@ Git, GitHub and GitHub Pages are not to be confused with each other:
 * GitHub is a social site that lets people share their work and/or collaborate on projects using git. 
 * GitHub Pages lets anyone with a github account publish their work - code or otherwise. 
 
-In case you are wondering, its not a prerequisite to learn git or to be active in github to go ahead and make your website. This blog is written keeping in mind someone who is unfamiliar with all of the above. 
+In case you are wondering, it is not a prerequisite to learn git or to be active in github to go ahead and make your website. This blog is written keeping in mind someone who is unfamiliar with all of the above. 
 
 Steps:
 1. Set up a GitHub account if you dont already have one
@@ -33,21 +33,20 @@ Steps:
 3. Publish GitHub Page with URL *http://your_username.github.io*
 4. Add content
 
-### Step 1: Sign up for Github or login 
+### Step 1: Sign up for Github or log in 
 Your username will become part of the url of your website, so it's best to choose one that is concise, memorable and uniquely identifiable to your name. Github lets you change username anytime but its [not advisable](https://help.github.com/articles/what-happens-when-i-change-my-username/) later on. 
 
 ![]({{ site.url }}/images/GitHubPages/screenshot-1.png){:width="890px"}
 
 ### Step 2: Create a repository named *your_username.github.io*
-The repository name must be in the right format *your_username.github.io* with your current username. Add a `ReadMe.md` file.
-
+Once you sign up or log in, select "Start a project":
 ![]({{ site.url }}/images/GitHubPages/screenshot-2.png){:width="890px"}
 
 If you just signed up, GitHub might ask you to first verify your email address before you create the repository.
 
 ![]({{ site.url }}/images/GitHubPages/screenshot-3.png){:width="890px"}
 
-Select "Initialize this repository with a README":
+The repository name must be in the right format *your_username.github.io* for GitHub Pages to work. Select the option "Initialize this repository with a README":
 
 ![]({{ site.url }}/images/GitHubPages/screenshot-4.png){:width="890px"}
 
