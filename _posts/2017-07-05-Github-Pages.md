@@ -70,10 +70,10 @@ There are many options, out of which I chose _Tactile theme_:
 
 ![]({{ site.url }}/images/GitHubPages/screenshot-8.png){:width="890px"}
 
-Your webpage has been created and you can now check it out at _your_username.github.io_.
+Your webpage has been created and you can now check it out at _your_username.github.io_!
 
 ### Step 4: The content is added in the ReadMe file. 
-Its simply writing as you would write and Jekyll reads it as a markup language. It has some syntax for formatting and such, summarized [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+The content of the homepage of your site comes from the ReadMe.md file. The file extension .md implies Jekyll would treat the content in the ReadMe file as a markup language. Markup language is an alternative to HTML and it is plain writing with no tags and much simpler syntax for formatting summarized [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 ![]({{ site.url }}/images/GitHubPages/screenshot-9.png){:width="890px"}
 
@@ -81,7 +81,7 @@ Once you add and modified the content, the changes are commited in the same way 
 
 ![]({{ site.url }}/images/GitHubPages/screenshot-10.png){:width="890px"}
 
-The changes made will be reflected in the website:
+The changes made will be reflected in the website. Sometimes it takes some time and a few more commits for the changes to appear in the website.
 
 ![]({{ site.url }}/images/GitHubPages/screenshot-11.png){:width="890px"}
 
