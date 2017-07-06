@@ -18,6 +18,6 @@ My story: I first encountered the subject when I took an elective course in Arti
 
 Here is a [link](https://github.com/AashitaK) to my github account that contains some of simple projects I completed recently as I am learning tools for data science and machine learning.
 
-Here is a [link](//{ site.url }/images/Aashita_Resume.pdf) to my resume.
+Here is a [link]({{ site.url }}/images/Aashita_Resume.pdf) to my resume.
 
 
