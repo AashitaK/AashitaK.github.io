@@ -87,13 +87,15 @@ The changes made will be reflected in the website. Sometimes it takes some time 
 
 [//]: # (And in the ReadMe.md file:)
 
-The last step of editing the ReadMe.md file can be repeated as many time as the content of the website is built.
+The last step of editing the ReadMe.md file can be repeated as many times as the content of the website is built.
 
-Advanced:
-* Customize your website using Jekyll themes.
-* Include a comment section, like I am using disqus for this blog.
-* Set up a custom domain.
-* Use google analytics.
+Once a basic webpage, there are many interesting ways to polish it based on your needs:  
+* Forking from one of the openly available [Jekyll themes](https://github.com/search?utf8=%E2%9C%93&q=jekyll+themes&type=) on Github and working on it to build a customized website.
+* Including a comment section, like I am using [disqus](https://disqus.com/) for this blog.
+* Setting up a custom domain.
+* Including [MathJax](https://www.mathjax.org/) to typeset mathematical expressions.
+* Adding buttons for social media links.
+* Using google analytics to track traffic in the website.
 
 [//]: # (Some related blogs that I learnt from and find useful:)
 
