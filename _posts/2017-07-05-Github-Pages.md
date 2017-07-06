@@ -68,9 +68,11 @@ Once you add and modified the content, the changes are commited same as you woul
 ![]({{ site.url }}/images/GitHubPages/screenshot-10.png){:width="890px"}
 
 The changes made will be reflected in the website:
+
 ![]({{ site.url }}/images/GitHubPages/screenshot-11.png){:width="890px"}
 
 And in the ReadMe.md file:
+
 ![]({{ site.url }}/images/GitHubPages/screenshot-12.png){:width="890px"}
 
 Advanced:
