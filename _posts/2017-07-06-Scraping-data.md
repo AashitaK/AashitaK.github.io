@@ -13,7 +13,7 @@ mathjax:
 ---
 The first step for a data science project is to obtain the data to work with. 
 In this age of [Kaggle](https://www.kaggle.com/) and the abundance of datasets freely available in read-to-use format to learn and practise 
-data science tools, the various tools available in python for data-scraping from the internet can often be missed out. In real life data science projects, a data scientist need not be given data in the most desirable format and should know how to collect the data by herself/himself. I find the course [*Using Python to Access Web Data*](https://www.coursera.org/learn/python-network-data) by University of Michigan on Coursera very informative. This blog is an attempt to give a brief overview of what I learnt from this course by [Prof. Charles Severance](http://www.dr-chuck.com/).
+data science tools, the various tools available in python for data-scraping from the internet can often be missed out by new initiates in data science. In real life data science projects, a data scientist need not be given data in the most desirable format, but instead collect it by herself/himself. I find the course [*Using Python to Access Web Data*](https://www.coursera.org/learn/python-network-data) by University of Michigan on Coursera taught by by [Prof. Charles Severance](http://www.dr-chuck.com/) very informative. This blog is an attempt to give a brief overview of the tools taught in this course from the eyes of a beginner in data science.
 
 [//]: # (Knowing how to gather data available on the internet gives one more flexibity and independence to choose a project of one's own liking.) 
 
