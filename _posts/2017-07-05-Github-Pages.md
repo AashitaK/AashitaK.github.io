@@ -40,13 +40,14 @@ Your username will become part of the url of your website, so it's best to choos
 
 ### Step 2: Create a repository named *your_username.github.io*
 Once you sign up or log in, select "Start a project":
+
 ![]({{ site.url }}/images/GitHubPages/screenshot-2.png){:width="890px"}
 
 If you just signed up, GitHub might ask you to first verify your email address before you create the repository.
 
 ![]({{ site.url }}/images/GitHubPages/screenshot-3.png){:width="890px"}
 
-The repository name must be in the right format *your_username.github.io* for GitHub Pages to work. Select the option "Initialize this repository with a README":
+The repository name must be in the right format *your_username.github.io* for publishing with the GitHub Pages. Select the option "Initialize this repository with a README":
 
 ![]({{ site.url }}/images/GitHubPages/screenshot-4.png){:width="890px"}
 
