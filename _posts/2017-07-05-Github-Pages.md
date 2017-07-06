@@ -33,13 +33,18 @@ Steps:
 3. Publish GitHub Page with URL *http://your_username.github.io*
 4. Add content
 
-Step 1: Your username will become part of the url of your website, so it best to be concise, memorable and uniquely identifiable to your name. Github lets you change username anytime but its [not advisable](https://help.github.com/articles/what-happens-when-i-change-my-username/) later on. 
+##### Step 1: Sign up for Github or login 
+Your username will become part of the url of your website, so it's best to choose one that is concise, memorable and uniquely identifiable to your name. Github lets you change username anytime but its [not advisable](https://help.github.com/articles/what-happens-when-i-change-my-username/) later on. 
+![]({{ site.url }}/images/GitHubPages/screenshot-1.png)
 
-Step 2: The repository name must be in the right format *your_username.github.io* with your current username. Add a `ReadMe.md` file.
+##### Step 2: The repository name must be in the right format *your_username.github.io* with your current username. Add a `ReadMe.md` file.
 ![]({{ site.url }}/images/GitHubPages/screenshot-2.png)
-Step 3: Go to settings, select theme and publish.
+If you just signed up, GitHub might ask you to verify your email address before you create the repository.
+![]({{ site.url }}/images/GitHubPages/screenshot-3.png)
+![]({{ site.url }}/images/GitHubPages/screenshot-4.png)
+##### Step 3: Go to settings, select theme and publish.
 
-Step 4: The content is added in the ReadMe file. Its simply writing as you would write and commit. Jekyll reads it as a markup language. There are a few things you need to know.
+##### Step 4: The content is added in the ReadMe file. Its simply writing as you would write and commit. Jekyll reads it as a markup language. There are a few things you need to know.
 
 Advanced:
 * Customize your website using Jekyll themes.
