@@ -95,7 +95,7 @@ Once a basic webpage is set up, there are many interesting ways to polish it bas
 * Setting up a custom domain.
 * Including [MathJax](https://www.mathjax.org/) to typeset mathematical expressions.
 * Adding buttons for social media links.
-* Using [google analytics](https://analytics.google.com/analytics/web/) to track traffic in the website.
+* Using [google analytics](https://analytics.google.com/analytics/web/) to track traffic on website.
 
 [//]: # (Some related blogs that I learnt from and find useful:)
 
