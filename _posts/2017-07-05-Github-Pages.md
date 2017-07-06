@@ -47,7 +47,7 @@ If you just signed up, GitHub might ask you to first verify your email address b
 
 ![]({{ site.url }}/images/GitHubPages/screenshot-3.png){:width="890px"}
 
-The repository name must be in the right format *your_username.github.io* for publishing with the GitHub Pages. Select the option "Initialize this repository with a README":
+The repository name must be in the right format **_your_username.github.io_** for publishing with the GitHub Pages. Select the option "Initialize this repository with a README":
 
 ![]({{ site.url }}/images/GitHubPages/screenshot-4.png){:width="890px"}
 
