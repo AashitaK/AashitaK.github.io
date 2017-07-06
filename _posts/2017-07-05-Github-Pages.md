@@ -62,13 +62,15 @@ First, go to the settings in the top bar of your repository and click on the set
 
 ![]({{ site.url }}/images/GitHubPages/screenshot-6.png){:width="890px"}
 
-Then click on the "Choose a theme":
+Then, scroll down and click on the "Choose a theme" button:
 
 ![]({{ site.url }}/images/GitHubPages/screenshot-7.png){:width="890px"}
 
 There are many options, out of which I chose _Tactile theme_:
 
 ![]({{ site.url }}/images/GitHubPages/screenshot-8.png){:width="890px"}
+
+Your webpage has been created and you can now check it out at _your_username.github.io_.
 
 ### Step 4: The content is added in the ReadMe file. 
 Its simply writing as you would write and Jekyll reads it as a markup language. It has some syntax for formatting and such, summarized [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
