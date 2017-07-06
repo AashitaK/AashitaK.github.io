@@ -75,6 +75,8 @@ And in the ReadMe.md file:
 
 ![]({{ site.url }}/images/GitHubPages/screenshot-12.png){:width="890px"}
 
+The last step of editing the ReadMe.md file can be repeated as many time as the content of the website is built.
+
 Advanced:
 * Customize your website using Jekyll themes.
 * Include a comment section, like I am using disqus for this blog.
