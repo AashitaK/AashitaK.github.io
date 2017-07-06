@@ -91,7 +91,7 @@ The last step of editing the ReadMe.md file can be repeated as many times as the
 
 Once a basic webpage is set up, there are many interesting ways to polish it based on your needs:  
 * Forking from one of the openly available [Jekyll themes](https://github.com/search?utf8=%E2%9C%93&q=jekyll+themes&type=) on Github and working on it to build a customized website.
-* Including a comment section, like I am using [disqus](https://disqus.com/) for this blog.
+* Including a comment section, like this blog has [disqus](https://disqus.com/) below.
 * Setting up a custom domain.
 * Including [MathJax](https://www.mathjax.org/) to typeset mathematical expressions.
 * Adding buttons for social media links.
