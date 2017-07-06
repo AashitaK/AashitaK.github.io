@@ -36,16 +36,37 @@ Steps:
 ##### Step 1: Sign up for Github or login 
 Your username will become part of the url of your website, so it's best to choose one that is concise, memorable and uniquely identifiable to your name. Github lets you change username anytime but its [not advisable](https://help.github.com/articles/what-happens-when-i-change-my-username/) later on. 
 
-![]({{ site.url }}/images/GitHubPages/screenshot-1.png){:width="900px"}
+![]({{ site.url }}/images/GitHubPages/screenshot-1.png){:width="890px"}
 
 ##### Step 2: The repository name must be in the right format *your_username.github.io* with your current username. Add a `ReadMe.md` file.
-![]({{ site.url }}/images/GitHubPages/screenshot-2.png)
+
+![]({{ site.url }}/images/GitHubPages/screenshot-2.png){:width="890px"}
+
 If you just signed up, GitHub might ask you to verify your email address before you create the repository.
-![]({{ site.url }}/images/GitHubPages/screenshot-3.png)
-![]({{ site.url }}/images/GitHubPages/screenshot-4.png)
+
+![]({{ site.url }}/images/GitHubPages/screenshot-3.png){:width="890px"}
+
+![]({{ site.url }}/images/GitHubPages/screenshot-4.png){:width="890px"}
+
+![]({{ site.url }}/images/GitHubPages/screenshot-5.png){:width="890px"}
+
 ##### Step 3: Go to settings, select theme and publish.
 
+![]({{ site.url }}/images/GitHubPages/screenshot-6.png){:width="890px"}
+
+![]({{ site.url }}/images/GitHubPages/screenshot-7.png){:width="890px"}
+
+![]({{ site.url }}/images/GitHubPages/screenshot-8.png){:width="890px"}
+
 ##### Step 4: The content is added in the ReadMe file. Its simply writing as you would write and commit. Jekyll reads it as a markup language. There are a few things you need to know.
+
+![]({{ site.url }}/images/GitHubPages/screenshot-9.png){:width="890px"}
+
+![]({{ site.url }}/images/GitHubPages/screenshot-10.png){:width="890px"}
+
+![]({{ site.url }}/images/GitHubPages/screenshot-11.png){:width="890px"}
+
+![]({{ site.url }}/images/GitHubPages/screenshot-12.png){:width="890px"}
 
 Advanced:
 * Customize your website using Jekyll themes.
