@@ -58,14 +58,19 @@ If you just signed up, GitHub might ask you to verify your email address before 
 
 ![]({{ site.url }}/images/GitHubPages/screenshot-8.png){:width="890px"}
 
-##### Step 4: The content is added in the ReadMe file. Its simply writing as you would write and commit. Jekyll reads it as a markup language. There are a few things you need to know.
+##### Step 4: The content is added in the ReadMe file. 
+Its simply writing as you would write and Jekyll reads it as a markup language. It has some syntax for formatting and such, summarized [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 ![]({{ site.url }}/images/GitHubPages/screenshot-9.png){:width="890px"}
 
+Once you add and modified the content, the changes are commited same as you would save a file:
+
 ![]({{ site.url }}/images/GitHubPages/screenshot-10.png){:width="890px"}
 
+The changes made will be reflected in the website:
 ![]({{ site.url }}/images/GitHubPages/screenshot-11.png){:width="890px"}
 
+And in the ReadMe.md file:
 ![]({{ site.url }}/images/GitHubPages/screenshot-12.png){:width="890px"}
 
 Advanced:
