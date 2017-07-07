@@ -29,3 +29,5 @@ Json library in Python is specially designed to work with JSON files. [JSON](htt
 Xml.etree.ElementTree library in Python is specially designed to work with XML files. XML(Extensible Markup Language) is a markup language, like HTML, designed to store and exchange data in a format that is both human-readable and machine-readable. Like HTML, it has tags and a tree-like structure. This library works similar to BeautifulSoup above?
 
 To be continued...
+
+Any questions, comments and/or suggestions are welcome! If you find this blog useful, the icons below lets you share it in social media.
