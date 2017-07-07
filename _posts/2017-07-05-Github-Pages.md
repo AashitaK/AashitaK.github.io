@@ -90,7 +90,8 @@ The changes made will be reflected in the website. Sometimes it takes some time 
 The last step of editing the ReadMe.md file can be repeated as many times as the content of the website is built.
 
 Once a basic webpage is set up, there are many interesting ways to polish it based on your needs:  
-* Forking from one of the openly available [Jekyll themes](https://github.com/search?utf8=%E2%9C%93&q=jekyll+themes&type=) on Github and working on it to build a customized website.
+* Forking from one of the openly available [Jekyll themes](https://github.com/search?utf8=%E2%9C%93&q=jekyll+themes&type=) on Github and working on it to build a customized website (It will be very helpful and perhaps necessary to install Jekyll locally for this).
+* Making blog posts.
 * Including a comment section, like this blog has [disqus](https://disqus.com/) below.
 * Setting up a custom domain.
 * Including [MathJax](https://www.mathjax.org/) to typeset mathematical expressions.
