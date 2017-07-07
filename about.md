@@ -19,3 +19,5 @@ My story: I first encountered the subject when I took an elective course in Arti
 [Here]({{ site.url }}/images/Aashita_Resume.pdf) is my resume and [here](https://www.linkedin.com/in/aashita-kesarwani) is my LinkedIn profile open to public view without signing up.
 
 [Here](https://github.com/AashitaK) is my GitHub account containing some of simple projects I completed recently as I am learning tools for data science and machine learning.
+
+The icons at the bottom bar of each page of the website contains my contact information.
