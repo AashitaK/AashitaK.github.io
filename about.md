@@ -16,7 +16,7 @@ I am an aspiring data scientist and a machine learning enthusiast.
 My story: I first encountered the subject when I took an elective course in Artificial Neural Network in the fall of 2011 during my undergraduate at Indian Institute of Technology (IIT) Roorkee. The subject material was challenging and I enjoyed every part of the course - theory, algorithms and coding. For the years ahead, I went back to singlemindedly working in my favorite subject number theory. It was a chance visit to Bangalore in the summer of 2016 and subsequent enrollment in Andrew Ng's course in [Machine Learning](https://www.coursera.org/learn/machine-learning) in Coursera that drew me back into the field. I am excitedly again a beginner in learning a field and I have never been more enthusiastic.
 {% endcomment %}
 
-[Here]({{ site.url }}/Aashita_Resume.pdf) is my resume and [here](https://www.linkedin.com/in/aashita-kesarwani) is my LinkedIn profile open to public view without signing up.
+[Here]({{ site.url }}/images/Aashita_Resume.pdf) is my resume and [here](https://www.linkedin.com/in/aashita-kesarwani) is my LinkedIn profile open to public view without signing up.
 
 [Here](https://github.com/AashitaK) is my GitHub account containing some of simple projects I completed recently as I am learning tools for data science and machine learning.
 
