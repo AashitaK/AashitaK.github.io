@@ -23,9 +23,9 @@ The [GitHub Pages](https://pages.github.com/) lets you make your own website. It
 Git, GitHub and GitHub Pages are not to be confused with each other:
 * Git is a version control system that lets you access previous versions of your work you asked git to keep track of. 
 * GitHub is a social site that lets people share their work and/or collaborate on projects using git. 
-* GitHub Pages lets anyone with a github account publish their work - code or otherwise. 
+* GitHub Pages lets anyone with an account on GitHub publish their work - code or otherwise. 
 
-In case you are wondering, it is not a prerequisite to learn git or to be active in github to go ahead and make your website. This blog is written keeping in mind someone who is unfamiliar with all of the above. 
+In case you are wondering, it is not a prerequisite to learn git or to be active in GitHub to go ahead and make your website. This blog is written keeping in mind someone who is unfamiliar with all of the above. 
 
 Steps:
 1. Set up a GitHub account if you dont already have one
@@ -33,8 +33,8 @@ Steps:
 3. Publish GitHub Page with URL *http://your_username.github.io*
 4. Add content
 
-### Step 1: Sign up for Github or log in 
-Your username will become part of the url of your website, so it's best to choose one that is concise, memorable and uniquely identifiable to your name. Github lets you change username anytime but its [not advisable](https://help.github.com/articles/what-happens-when-i-change-my-username/) later on. 
+### Step 1: Sign up for GitHub or log in 
+Your username will become part of the url of your website, so it's best to choose one that is concise, memorable and uniquely identifiable to your name. GitHub lets you change username anytime but its [not advisable](https://help.github.com/articles/what-happens-when-i-change-my-username/) later on. 
 
 ![]({{ site.url }}/images/GitHubPages/screenshot-1.png){:width="890px"}
 
@@ -90,7 +90,7 @@ The changes made will be reflected in the website. Sometimes it takes some time 
 The last step of editing the ReadMe.md file can be repeated as many times as the content of the website is built.
 
 Once a basic webpage is set up, there are many interesting ways to polish it based on your needs:  
-* Forking from one of the openly available [Jekyll themes](https://github.com/search?utf8=%E2%9C%93&q=jekyll+themes&type=) on Github and working on it to build a customized website (It will be very helpful and perhaps necessary to install Jekyll locally for this).
+* Forking from one of the openly available [Jekyll themes](https://github.com/search?utf8=%E2%9C%93&q=jekyll+themes&type=) on Github and working on it to build a customized website (It will be very helpful and perhaps necessary to install and use Jekyll locally on your computer for this and also make use of git).
 * Making blog posts.
 * Including a comment section, like this blog has [disqus](https://disqus.com/) below.
 * Setting up a custom domain.
