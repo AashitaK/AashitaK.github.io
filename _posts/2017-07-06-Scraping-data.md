@@ -22,7 +22,7 @@ The data on internet comes in many formats, most commonly JSON, XML and plain ol
 JSON and XML are the two most common data-interchange formats used to encode data to transport over the internet. 
 
 ### [JSON](http://www.json.org/)(JavaScript Object Notation)
-There are two type of data structures common to almost all modern programming languages - the collection of key/value pairs, for e.g. dictionaries in Python, and the ordered list of values, for e.g. lists in Python. The simple idea behind the conception of JSON by [Douglas Crockford](https://en.wikipedia.org/wiki/Douglas_Crockford) was that the data format used to exchange data between programming languages be based on these universal data structures. They are called object and array respectively in JSON inheriting the terminology and syntax from JavaScript.
+There are two types of data structures common to almost all modern programming languages - the collection of key/value pairs, for e.g. dictionaries in Python, and the ordered list of values, for e.g. lists in Python. The simple idea behind the conception of JSON by [Douglas Crockford](https://en.wikipedia.org/wiki/Douglas_Crockford) was that the data format used to exchange data between programming languages be based on these universal data structures. They are called object and array respectively in JSON inheriting the terminology and syntax from JavaScript.
 
 ### [XML](https://www.xml.com/pub/a/98/10/guide0.html)(Extensible Markup Language)
 XML is a markup language, like HTML, designed to store and exchange data in a format that is both human-readable and machine-readable. Like HTML, it has tags and a tree-like structure.
@@ -40,6 +40,6 @@ Xml.etree.ElementTree library in Python is specially designed to work with XML f
 
 [//]: # (This library works similar to BeautifulSoup above?)
 
-To be continued...
+*Work in progress*
 
 Any questions, comments and/or suggestions are welcome! If you find this blog useful, the icons below lets you share it in social media.
