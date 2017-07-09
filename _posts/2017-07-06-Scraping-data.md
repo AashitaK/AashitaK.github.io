@@ -40,6 +40,6 @@ Xml.etree.ElementTree library in Python is specially designed to work with XML f
 
 [//]: # (This library works similar to BeautifulSoup above?)
 
-*Work in progress*
+*Work in progress...*
 
 Any questions, comments and/or suggestions are welcome! If you find this blog useful, the icons below lets you share it in social media.
