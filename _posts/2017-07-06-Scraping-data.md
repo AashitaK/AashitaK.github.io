@@ -17,7 +17,7 @@ data science tools, one may miss out the various tools available in python for d
 
 [//]: # (Knowing how to gather data available on the internet gives one more flexibity and independence to choose a project of one's own liking.) 
 
-The data on internet comes in many formats, most commonly JSON, XML and plain old HTML. Python library `urllib` lets one access data directly from the URL of a website. If the data thus obtained is a HTML file, then the relevant information can be extracted using regular expressions, or the libraries designed for parsing - BeautifulSoup4, pickle, etc. For JSON and XML, the Python libraries `json, xml.etree.ElementTree` is used for the same purpose.
+The data on internet comes in many formats, most commonly JSON, XML and plain old HTML. Python library `urllib` lets one access data directly from the URL of a website. If the data thus obtained is a HTML file, then the relevant information can be extracted using regular expressions, or the libraries designed for parsing - `BeautifulSoup4, pickle,` etc. For JSON and XML, the Python libraries `json, xml.etree.ElementTree` is used for the same purpose.
 
 JSON and XML are the two most common data-interchange formats used to encode data to transport over the internet. 
 
@@ -29,8 +29,8 @@ XML is a markup language, like HTML, designed to store and exchange data in a fo
 
 The following Python libraries are very useful for web scraping:
 
-### BeautifulSoup
-[BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) is one of the widely used Python library for web-scraping i.e. searching through websites on the internet to extract only the relevant data. It is used to parse data from the HTML or XML files. It takes a file and makes a soup out of its content so that the target information can be extracted easily and efficiently from an enormous amount of irrelevant data. 
+### BeautifulSoup4
+[BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/) is one of the widely used Python library for web-scraping i.e. searching through websites on the internet to extract only the relevant data. It is used to parse data from the HTML or XML files. It takes a file and makes a soup out of its content so that the target information can be extracted easily and efficiently from an enormous amount of irrelevant data. 
 
 ### Json
 Json library in Python is specially designed to work with JSON files. 
