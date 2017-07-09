@@ -20,7 +20,7 @@ The [GitHub Pages](https://pages.github.com/) lets you make your own website. It
 * **_Simple_** - No coding required (not even html/css, Jekyll will do it for you), no server maintainence, no setting up domain, and no maintaining database unlike WordPress. There are countless themes openly available to choose from. 
 * **_Secure_** - No vulnerability to hacking unless your github account password is hacked.
 
-Git, GitHub and GitHub Pages are not to be confused with each other:
+Git, GitHub and GitHub Pages are related with each other but not the same :
 * Git is a version control system that lets you access previous versions of your work you asked git to keep track of. 
 * GitHub is a social site that lets people share their work and/or collaborate on projects using git. 
 * GitHub Pages lets anyone with an account on GitHub publish their work - code or otherwise. 
