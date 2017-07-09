@@ -20,4 +20,4 @@ My story: I first encountered the subject when I took an elective course in Arti
 
 [Here](https://github.com/AashitaK) is my GitHub account containing some of simple projects I completed recently as I am learning tools for data science and machine learning.
 
-The icons at the bottom bar of each page of the website contains my contact information.
+Please feel free to contact me at [contact@aashitak.com](mailto:contact@aashitak.com) or connect with me in other platforms using the icons at the bottom bar of the website.
