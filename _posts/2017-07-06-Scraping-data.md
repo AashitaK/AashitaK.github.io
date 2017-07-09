@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Scrapping data from the internet 
+title: Scraping data from the internet 
 description: "Scraping data from the internet using Python"
 headline:
 modified: 
