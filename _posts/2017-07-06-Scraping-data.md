@@ -17,9 +17,9 @@ data science tools, one may miss out the various tools available in python for d
 
 [//]: # (Knowing how to gather data available on the internet gives one more flexibity and independence to choose a project of one's own liking.) 
 
-The data on internet comes in many formats, most commonly JSON, XML and plain old HTML. Python library `urllib` lets one access data directly from the URL of a website. If the data thus obtained is a HTML file, then the relevant information can be extracted using regular expressions, or the libraries designed for parsing - `BeautifulSoup4, pickle,` etc. For JSON and XML, the Python libraries `json, xml.etree.ElementTree` is used for the same purpose.
+The data on internet comes in many formats, most commonly JSON, XML and plain old HTML. Python library `urllib` lets one access data directly from the URL of a website. If the data thus obtained is a HTML file, then the relevant information can be extracted using regular expressions, or the libraries designed for parsing - `BeautifulSoup4, pickle,` etc. The Python libraries `json` and `xml.etree.ElementTree` are used for JSON and XML respectively.
 
-JSON and XML are the two most common data-interchange formats used to encode data to transport over the internet. 
+JSON and XML are the two most common data-interchange formats used to encode data transporting over the internet. 
 
 ### [JSON](http://www.json.org/)(JavaScript Object Notation)
 There are two types of data structures common to almost all modern programming languages - the collection of key/value pairs, for e.g. dictionaries in Python, and the ordered list of values, for e.g. lists in Python. The simple idea behind the conception of JSON by [Douglas Crockford](https://en.wikipedia.org/wiki/Douglas_Crockford) was that the data format used to exchange data between programming languages be based on these universal data structures. They are called object and array respectively in JSON inheriting the terminology and syntax from JavaScript.
