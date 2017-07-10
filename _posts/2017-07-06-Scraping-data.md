@@ -5,7 +5,7 @@ description: "Scraping data from the internet using Python"
 headline:
 modified: 
 category: articles
-tags: [data-scraping]
+tags: [web-scraping]
 imagefeature: 
 comments: true
 share: true
