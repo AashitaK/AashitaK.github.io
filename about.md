@@ -18,7 +18,7 @@ My story: I first encountered the subject when I took an elective course in Arti
 
 [Here]({{ site.url }}/images/Aashita_Resume.pdf) is my resume:
 
-![]({{ site.url }}/images/Aashita_Resume.jpg)
+![Aashita Kesarwani]({{ site.url }}/images/Aashita_Resume.jpg){:width="890px"}
 
 [Here](https://www.linkedin.com/in/aashita-kesarwani) is my LinkedIn profile:
 <pre>
