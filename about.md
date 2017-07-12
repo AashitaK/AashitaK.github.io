@@ -24,6 +24,7 @@ My story: I first encountered the subject when I took an elective course in Arti
 <pre>
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="aashita-kesarwani"><a class="LI-simple-link" href='https://www.linkedin.com/in/aashita-kesarwani?trk=profile-badge'>Aashita Kesarwani</a></div>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="aashita-kesarwani"><a class="LI-simple-link" href='https://www.linkedin.com/in/aashita-kesarwani?trk=profile-badge'>Aashita Kesarwani</a></div>
 </pre>
 
 [Here](https://github.com/AashitaK) is the link to my GitHub account containing some of simple projects I completed recently as I am learning tools for data science and machine learning.
