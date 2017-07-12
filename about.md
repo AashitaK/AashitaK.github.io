@@ -12,7 +12,7 @@ I am a PhD candidate in Mathematics at Tulane University working in number theor
 
 I am an aspiring data scientist and a machine learning enthusiast actively seeking internship opportunities for the Fall 2017. 
 
-[Here]({{ site.url }}/images/Aashita_Resume.pdf) is my resume:
+[Here](/images/Aashita_Resume.pdf) is my resume:
 
 ![Aashita Kesarwani](/images/Aashita_Resume.jpg){:width="1100px"}
 
