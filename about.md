@@ -23,6 +23,6 @@ I am an aspiring data scientist and a machine learning enthusiast actively seeki
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="aashita-kesarwani"><a class="LI-simple-link" href='https://www.linkedin.com/in/aashita-kesarwani?trk=profile-badge'>Aashita Kesarwani</a></div>
 </pre>
 
-[Here](https://github.com/AashitaK) is the link to my GitHub account containing some of simple projects I completed recently as I am learning tools for data science and machine learning.
+[Here](https://github.com/AashitaK) is the link to my GitHub account containing some of the simple projects I completed recently as I am learning tools for data science and machine learning.
 
 Please feel free to contact me at [contact@aashitak.com](mailto:contact@aashitak.com) or connect with me in other platforms using the icons at the bottom bar of the website.
