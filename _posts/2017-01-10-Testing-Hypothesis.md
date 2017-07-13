@@ -1,6 +1,19 @@
+---
+layout: post
+title: Testing a hypothesis on the effect of recession on housing prices 
+description: "Testing a hypothesis on the effect of recession on housing prices in university towns as compared to other towns"
+headline:
+modified: 
+category: articles
+tags: [web-scraping]
+imagefeature: 
+comments: true
+share: true
+mathjax:
+---
 
-# Testing a hypothesis on the effect of recession on housing prices in university towns as compared to other towns
-## [Aashita Kesarwani](http://www.aashitak.com/about/)
+Testing a hypothesis on the effect of recession on housing prices in university towns as compared to other towns
+
 To test the hypotheses that the university towns have their mean housing prices less effected by recessions, the notebook runs a t-test using ```scipy.stats.ttest_ind``` to compare the ratio of the mean price of houses in university towns the quarter before the recession starts compared to the recession bottom vs the same price ratio for other towns. 
  
 This is part of an assignment for the the online course [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis). The data files used here can be found at:
