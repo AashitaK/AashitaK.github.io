@@ -66,10 +66,7 @@ get_list_of_university_towns()
     List of university towns: 
     
     
-
-
-
-
+<pre>
 <div>
 <table border="1" class="dataframe">
   <thead>
@@ -281,7 +278,7 @@ get_list_of_university_towns()
 </table>
 <p>517 rows × 0 columns</p>
 </div>
-
+</pre>
 
 
 A _quarter_ is a specific three month period, Q1 is January through March, Q2 is April through June, Q3 is July through September, Q4 is October through December.
