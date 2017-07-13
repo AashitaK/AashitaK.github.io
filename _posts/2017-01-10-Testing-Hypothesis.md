@@ -304,9 +304,7 @@ GDP.set_index("Quarters", inplace = True)
 GDP
 ```
 
-
-
-
+<pre>
 <div>
 <table border="1" class="dataframe">
   <thead>
@@ -568,7 +566,7 @@ GDP
 </table>
 <p>66 rows × 1 columns</p>
 </div>
-
+</pre>
 
 
 
@@ -578,9 +576,7 @@ GDP_diff = GDP.diff()
 GDP_diff
 ```
 
-
-
-
+<pre>
 <div>
 <table border="1" class="dataframe">
   <thead>
@@ -842,7 +838,7 @@ GDP_diff
 </table>
 <p>66 rows × 1 columns</p>
 </div>
-
+</pre>
 
 
 A _recession_ starts when GDP declines for two consecutive quarters and ends when GDP grows for two consecutive quarters.
@@ -950,7 +946,7 @@ housing.head()
 
 
 
-
+<pre>
 <div>
 <table border="1" class="dataframe">
   <thead>
@@ -1131,7 +1127,7 @@ housing.head()
 </table>
 <p>5 rows × 67 columns</p>
 </div>
-
+</pre>
 
 
 **Hypothesis**: University towns have their mean housing prices less effected by recessions. Running a t-test to compare the ratio of the mean price of houses in university towns the quarter before the recession starts compared to the recession bottom. (`price_ratio=quarter_before_recession/recession_bottom`)
@@ -1195,3 +1191,4 @@ run_ttest()
 
 
 Since the p-value is less than 0.01, we reject the null hypotheses of equal expected price ratios for university and non-university towns. Moreover, t-statistic is negative implying the price ratio for the university towns is less than that for remaining towns. This in turn suggests that prices for houses in university towns were less affected during recession as compared to that of non-university towns. 
+
