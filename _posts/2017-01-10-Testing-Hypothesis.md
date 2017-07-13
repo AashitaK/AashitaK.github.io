@@ -1148,6 +1148,8 @@ def run_ttest():
     exact p value returned from scipy.stats.ttest_ind(). The value for better is 
     either "university town" or "non-university town" depending on which has a 
     lower mean price ratio (which is equivilent to a reduced market loss).'''
+    
+    
     housing = convert_housing_data_to_quarters()
     university_towns = get_list_of_university_towns()
     quarter_before_recession = get_quarter_before_recession()    
