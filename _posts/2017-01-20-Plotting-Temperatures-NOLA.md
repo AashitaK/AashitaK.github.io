@@ -43,6 +43,63 @@ Each row in the datafile corresponds to a single observation. There are four col
 The temperatures are given at tenths of degrees celsius and are taken from multiple locations in New Orleans at multiple 
 times of the day everyday from Jan 01, 2005 to Dec 31, 2015.
 
+```python
+df.head(5)
+```
+
+<pre>
+<div>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>ID</th>
+      <th>Date</th>
+      <th>Element</th>
+      <th>Data_Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>USW00053917</td>
+      <td>2005-07-06</td>
+      <td>TMAX</td>
+      <td>306</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>USW00012884</td>
+      <td>2011-10-05</td>
+      <td>TMIN</td>
+      <td>211</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>USC00168941</td>
+      <td>2014-09-16</td>
+      <td>TMIN</td>
+      <td>233</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>USC00166676</td>
+      <td>2012-07-20</td>
+      <td>TMIN</td>
+      <td>239</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>USC00168941</td>
+      <td>2009-04-22</td>
+      <td>TMAX</td>
+      <td>283</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</pre>
+
 The dataframe df is now prepared to extract the data in desired format:
 ```python
 df.loc[:,'Data_Value'] *= 0.1 # Dividing all temperature entries by 10 to convert them to degree celsius
