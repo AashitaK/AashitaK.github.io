@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Testing a hypothesis on the effect of recession on housing prices 
+title: Testing a hypothesis on the effect of recession on housing prices in university towns
 description: "Testing a hypothesis on the effect of recession on housing prices in university towns as compared to other towns"
 headline:
 modified: 
@@ -12,17 +12,17 @@ share: true
 mathjax:
 ---
 
-Testing a hypothesis on the effect of recession on housing prices in university towns as compared to other towns
-
-To test the hypotheses that the university towns have their mean housing prices less effected by recessions, the notebook runs a t-test using ```scipy.stats.ttest_ind``` to compare the ratio of the mean price of houses in university towns the quarter before the recession starts compared to the recession bottom vs the same price ratio for other towns. 
+The hypotheses that the university towns have their mean housing prices less effected by recessions is tested. First, the ratio of the mean price of houses in university towns the quarter before the recession starts to that of the recession bottom is calculated. This price ratio gives a measure of the change in housing prices due to recession. Then, a t-test is run using ```scipy.stats.ttest_ind``` to compare the price ratio for the university towns as compared with other towns. 
  
-This is part of an assignment for the the online course [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis). The data files used here can be found at:
+Thispippip is part of an assignment for the the online course [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis). The data files used here can be found at:
 * The housing data from the 
 [Zillow research data site](http://www.zillow.com/research/data/) stored in the file ```City_Zhvi_AllHomes.csv```.
 * The list of
 [university towns in the United States](https://en.wikipedia.org/wiki/List_of_college_towns#College_towns_in_the_United_States)
 from wikipedia has been copy and pasted into the file ```university_towns.txt``` in the repository. 
 * The [GDP over time](http://www.bea.gov/national/index.htm#gdp) of the United States from the Bureau of Economic Analysis, US Department of Commerce, stored in the file ```gdplev.xls```
+Below is the code 
+
 
 
 ```python
