@@ -119,14 +119,14 @@ prose:
           placeholder: "Choose categories"
           value: personal
           options:
-            - name: "Personal"
-              value: personal
             - name: "Data Science"
-              value: data science
+              value: Data Science
             - name: "Miscellaneous"
               value: miscellaneous
             - name: "Inspirational"
               value: inspirational
+            - name: "Personal"
+              value: personal
           alterable: true
       - name: "tags"
         field:
