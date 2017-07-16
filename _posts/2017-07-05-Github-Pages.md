@@ -4,8 +4,8 @@ title: Setting up website using Github Pages
 description: "Setting up website using Github Pages"
 headline:
 modified: 
-category: articles
-tags: [webpage]
+category: Miscellaneous
+tags: [github-pages]
 imagefeature: 
 comments: true
 share: true
