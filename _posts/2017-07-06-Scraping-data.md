@@ -4,7 +4,7 @@ title: Scraping data from the internet
 description: "Scraping data from the internet using Python"
 headline:
 modified: 
-category: articles
+category: datascience
 tags: [web-scraping]
 imagefeature: 
 comments: true
