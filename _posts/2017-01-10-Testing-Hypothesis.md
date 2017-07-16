@@ -4,7 +4,7 @@ title: Testing a hypothesis on the effect of recession on housing prices in univ
 description: "Testing a hypothesis on the effect of recession on housing prices in university towns as compared to other towns"
 headline:
 modified: 
-category: datascience
+category: Data Science
 tags: [testing-hypothesis]
 imagefeature: 
 comments: true
