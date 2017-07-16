@@ -122,7 +122,7 @@ prose:
             - name: "Personal"
               value: personal
             - name: "Data Science"
-              value: datascience
+              value: data science
             - name: "Miscellaneous"
               value: miscellaneous
             - name: "Inspirational"
