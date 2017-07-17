@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /about/index.html
-title: Aashita Kesarwani
-tags: [Aashita, Kesarwani, akesarwa, aashitak, aaashitak]
-imagefeature: fourseasons.jpg
+title: About me
+tags: [Aashita, Kesarwani, akesarwa, aashitak, aaashitak, IIT, Roorkee, Gondia, Tulane, data scientist, machine learning, PhD]
+imagefeature: 
 chart: true
 mathjax: true
 ---
