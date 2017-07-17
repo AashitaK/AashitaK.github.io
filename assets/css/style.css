@@ -174,7 +174,8 @@ main, .notepad-share-icons, .notepad-disqus {
     margin: 0;
     padding: 0;
     color: white;
-    text-transform: uppercase; }
+    text-transform: uppercase; 
+    display: block; }
   .notepad-site-head .notepad-site-head-content h1 {
     padding-bottom: 5rem;
     margin-top: 0;
