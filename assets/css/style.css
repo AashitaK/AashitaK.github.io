@@ -176,11 +176,11 @@ main, .notepad-share-icons, .notepad-disqus {
     text-transform: uppercase; }
   .notepad-site-head .notepad-site-head-content h1 {
     padding-bottom: 5rem;
-    margin-top: -8rem;
+    margin-top: -5rem;
     font-size: 0.875rem; }
   .notepad-site-head .notepad-site-head-content h2 {
-    padding-top: 4.375rem;
-    margin-bottom: 0;
+    padding-top: 6rem;
+    margin-bottom: -5rem;
     font-size: 2.5rem;
     font-weight: 700; }
   @media only screen and (min-width: 40.063em) {
