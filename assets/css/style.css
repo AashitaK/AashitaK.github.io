@@ -165,7 +165,7 @@ main, .notepad-share-icons, .notepad-disqus {
   .notepad-site-head .notepad-site-head-content.with-bg-cover {
     background-color: rgba(0, 0, 0, 0.7); }
   .notepad-site-head .notepad-site-head-content .notepad-site-head-title-bg {
-    display: inline-block;
+    display: block;
     padding: 0.625rem;
     background: #e51843;
     line-height: 1.1;
@@ -174,8 +174,7 @@ main, .notepad-share-icons, .notepad-disqus {
     margin: 0;
     padding: 0;
     color: white;
-    text-transform: uppercase; 
-    display: block; }
+    text-transform: uppercase; }
   .notepad-site-head .notepad-site-head-content h1 {
     padding-bottom: 5rem;
     margin-top: 0;
