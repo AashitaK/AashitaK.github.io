@@ -182,38 +182,38 @@ main, .notepad-share-icons, .notepad-disqus {
     font-size: 0.875rem; }
   .notepad-site-head .notepad-site-head-content h2 {
     padding-top: 6rem;
-    margin-bottom: -14rem;
+    margin-bottom: -12rem;
     line-height: 0;
     font-size: 2.5rem;
     font-weight: 700; }
   @media only screen and (min-width: 40.063em) {
     .notepad-site-head .notepad-site-head-content h1 {
-      font-size: 1rem;
-      padding-bottom: 7.5rem; }
+      padding-top: 7.5rem;
+      font-size: 1rem; }
     .notepad-site-head .notepad-site-head-content h2 {
       font-size: 3.75rem;
-      padding-top: 7.5rem;
+      padding-bottom: 7.5rem;
       font-weight: 700; } }
   @media only screen and (min-width: 70em) {
     .notepad-site-head .notepad-site-head-content h1 {
-      font-size: 1rem;
-      padding-bottom: 9.375rem; }
+      padding-top: 9.375rem;
+      font-size: 1rem; }
     .notepad-site-head .notepad-site-head-content h2 {
       font-size: 4.375rem;
-      padding-top: 9.375rem;
+      padding-bottom: 9.375rem;
       font-weight: 700; } }
   @media only screen and (min-width: 90em) {
     .notepad-site-head .notepad-site-head-content h1 {
-      padding-bottom: 10.3125rem; }
+      padding-top: 10.3125rem; }
     .notepad-site-head .notepad-site-head-content h2 {
-      font-size: 5rem;      
-      padding-top: 10.3125rem; } }
+      font-size: 5rem;
+      padding-bottom: 10.3125rem; } }
   @media only screen and (min-width: 100em) {
     .notepad-site-head .notepad-site-head-content h1 {
-      padding-bottom: 12.5rem; }
+      padding-top: 12.5rem; }
     .notepad-site-head .notepad-site-head-content h2 {
       font-size: 6.25rem;
-      padding-top: 12.5rem; } }
+      padding-bottom: 12.5rem; } }
 
 .notepad-content .notepad-index-post {
   visibility: hidden;
