@@ -5,7 +5,7 @@ description: "Testing a hypothesis on the effect of recession on housing prices 
 headline:
 modified: 
 category: Projects
-tags: [testing-hypothesis, aashita, kesarwani]
+tags: [testing-hypothesis]
 imagefeature: 
 comments: true
 share: true
