@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/index.html
-title: About me
+title: Aashita Kesarwani
 tags: [Aashita, Kesarwani, akesarwa, aashitak, aaashitak, IIT, Roorkee, Gondia, Tulane, data scientist, machine learning, PhD]
 imagefeature: 
 chart: true
