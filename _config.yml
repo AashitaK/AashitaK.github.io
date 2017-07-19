@@ -123,6 +123,8 @@ prose:
               value: Data Science
             - name: "Miscellaneous"
               value: miscellaneous
+            - name: "Projects"
+              value: projects
             - name: "Inspirational"
               value: inspirational
             - name: "Personal"
