@@ -3,7 +3,7 @@ layout: post
 title: Plotting record temperatures for New Orleans 
 description: "Plotting record temperatures for New Orleans over the period 2005-2015 using pandas and matplotlib."
 modified: 2017-04-21
-category: Data Science
+category: Projects
 tags: [plotting]
 imagefeature: coverNOLA.jpg
 comments: true
