@@ -1,0 +1,11 @@
+Decision Tree and game
+Information game
+Try to imagine designing the code game and deciphering it you will understand DT algo intuitively
+Remember with words, its not just a random arrangement of symbols, but instead we are using valid four-letter words in english
+There are inherent patterns in words that can not be so easily and accurately coded as a set of rules but DT will take care of it
+with big enough training sample and using ensemble to avoid overfitting that DT is prone to.
+
+Understanding this better also helps you to get peculiar examples that will be harder to guess
+
+This will also help someone understand the importance of human intuition as well as its limitations as compared to machines
+on account of speed and memory.
