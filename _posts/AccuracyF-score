@@ -6,3 +6,12 @@ Of all instances classified inaccurately, what percentage are positives
 High recall needed when we dont want positives classified as negatives
 # F1 = 2 * Precision * Recall / (Precision + Recall) 
 DT higher precision than recall, biased towards majority instance labels
+
+Confusion matrices
+
+decision functions
+
+ROC curves
+AUC
+
+Muticlass - confusion matrices - micro vs macro average precision
