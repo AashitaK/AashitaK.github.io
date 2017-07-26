@@ -12,4 +12,3 @@ share: true
 mathjax:
 ---
 *Coming soon* ...
- [website](http://www.aashitak.com/)
