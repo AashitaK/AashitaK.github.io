@@ -14,7 +14,7 @@ I am an aspiring data scientist and a machine learning enthusiast actively seeki
 
 [Here](/images/Aashita_Resume.pdf) is my resume:
 
-![Aashita Kesarwani](/images/Aashita_Resume.jpg){:width="1090px"}
+![Aashita Kesarwani](/images/Aashita_Resume.jpg){:width="1080px"}
 
 [Here](https://www.linkedin.com/in/aashita-kesarwani) is my LinkedIn profile:
 <pre>
