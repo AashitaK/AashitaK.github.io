@@ -46,8 +46,8 @@ links:
     url: /about
 #  - title: Resume
 #    url: /resume
-  - title: Blogs
-    url: /blogs
+  - title: Archive
+    url: /archive
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Chicago
