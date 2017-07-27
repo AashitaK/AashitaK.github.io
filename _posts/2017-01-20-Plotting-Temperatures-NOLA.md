@@ -15,7 +15,6 @@ One of the things I love about New Orleans is its warm and optimistic weather. T
 ![Temperature graph]({{ site.url }}/images/TempNOLA/fig6.png)
 
 In the graph, the record highs and lows in the temperature over the period 2005-2014 are given as line graphs and the record breaking temperatures for the year 2015 are scattered over as red and blue dots. 
-The idea and guidance for this exercise is taken from the online course [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting) by University of Michigan on [coursera](https://www.coursera.org/). 
 
 The data, viz daily climate records from 12 stations near New Orleans, used here can be found at [The National Centers for Environmental Information (NCEI) Daily Global Historical Climatology Network (GHCN-Daily)](https://www1.ncdc.noaa.gov/pub/data/ghcn/daily/readme.txt).
 The temperatures over the period Jan 01, 2005 to Dec 31, 2015 in the ready-to-use `csv` format can also be found in my github repository [here](https://github.com/AashitaK/Plotting-Record-Temperatures). 
