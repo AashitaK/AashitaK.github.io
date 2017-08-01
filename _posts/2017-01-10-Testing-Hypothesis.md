@@ -19,7 +19,7 @@ The data files used here can be found at:
 [Zillow research data site](http://www.zillow.com/research/data/) stored in the file ```City_Zhvi_AllHomes.csv```.
 * The list of
 [university towns in the United States](https://en.wikipedia.org/wiki/List_of_college_towns#College_towns_in_the_United_States)
-from wikipedia has been copy and pasted into the file ```university_towns.txt``` in the repository. 
+from wikipedia has been copy and pasted into the file ```university_towns.txt```. 
 * The [GDP over time](http://www.bea.gov/national/index.htm#gdp) of the United States from the Bureau of Economic Analysis, US Department of Commerce, stored in the file ```gdplev.xls```
 Below is the code for Python 3:
 
