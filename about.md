@@ -14,7 +14,7 @@ I am an aspiring data scientist and a machine learning enthusiast.
 
 [Here](/images/Aashita_Resume.pdf) is my resume:
 
-[//]: (![Aashita Kesarwani](/images/Aashita_Resume.jpg){:width="1080px"})
+[//]: #(![Aashita Kesarwani](/images/Aashita_Resume.jpg){:width="1080px"})
 
 A couple of projects mentioned in the resume are posted as blogs:
 
