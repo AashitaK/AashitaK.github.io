@@ -13,9 +13,7 @@ I am a PhD candidate in Mathematics at Tulane University working in number theor
 I am an aspiring data scientist and a machine learning enthusiast. 
 
 [Here](/images/Aashita_Resume.pdf) is a link to my resume and 
-
 [//]: #(![Aashita Kesarwani](/images/Aashita_Resume.jpg){:width="1080px"})
-
 a couple of projects mentioned in the resume are posted as blogs:
 
 - [The effect of recession on housing prices in university towns](http://www.aashitak.com/projects/Testing-Hypothesis)
