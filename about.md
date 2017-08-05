@@ -12,16 +12,16 @@ I am a PhD candidate in Mathematics at Tulane University working in number theor
 
 I am an aspiring data scientist and a machine learning enthusiast. 
 
-[Here](/images/Aashita_Resume.pdf) is my resume:
+[Here](/images/Aashita_Resume.pdf) is a link to my resume and 
 
 [//]: #(![Aashita Kesarwani](/images/Aashita_Resume.jpg){:width="1080px"})
 
-A couple of projects mentioned in the resume are posted as blogs:
+a couple of projects mentioned in the resume are posted as blogs:
 
 - [The effect of recession on housing prices in university towns](http://www.aashitak.com/projects/Testing-Hypothesis)
 - [Plotting record temperatures for New Orleans](http://www.aashitak.com/projects/Plotting-Temperatures-NOLA)
 
-[Here](https://www.linkedin.com/in/aashita-kesarwani) is my LinkedIn profile:
+[Below](https://www.linkedin.com/in/aashita-kesarwani) is my LinkedIn profile:
 <pre>
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <!--div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="aashita-kesarwani"><a class="LI-simple-link" href='https://www.linkedin.com/in/aashita-kesarwani?trk=profile-badge'>Aashita Kesarwani</a></div-->
