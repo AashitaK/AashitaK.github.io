@@ -9,6 +9,7 @@
 
 body {
   font-family: "Open Sans", sans-serif;
+  width: auto;
   height: auto;
   min-height: 100%;
   line-height: 1; }
