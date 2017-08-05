@@ -16,7 +16,7 @@ I am an aspiring data scientist and a machine learning enthusiast actively seeki
 
 ![Aashita Kesarwani](/images/Aashita_Resume.jpg){:width="1080px"}
 
-The projects mentioned above in the resume can also be found at:
+A couple of projects mentioned in the resume are posted as blogs:
 
 - [The effect of recession on housing prices in university towns](http://www.aashitak.com/projects/Testing-Hypothesis)
 - [Plotting record temperatures for New Orleans](http://www.aashitak.com/projects/Plotting-Temperatures-NOLA)
