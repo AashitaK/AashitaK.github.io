@@ -555,7 +555,7 @@ figcaption {
     -moz-border-radius: 4px;
     border-radius: 4px;
 }
-/*.highlight .c { color: #3F6B5B; font-weight: bold} /* Comment */
+.highlight .c { color: #3F6B5B; font-weight: bold} /* Comment */
 .highlight .err { color: #000000} /* Error */
 .highlight .g { color: #000000} /* Generic */
 .highlight .k { color: #F06F00; font-weight: bold} /* Keyword */
@@ -629,7 +629,7 @@ pre.highlight,
   max-width: 56.250rem;
   margin-right: auto;
   margin-left: auto;
-} */
+} 
 /* =====================================
  * :: Select Text to Share CSS
  * 
