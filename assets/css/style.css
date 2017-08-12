@@ -555,8 +555,10 @@ figcaption {
     -moz-border-radius: 4px;
     border-radius: 4px;
 }
-.highlight pre { background-color: #272822; }
-.highlight .hll { background-color: #272822; }
+pre.highlight, .highlight pre { background-color: #3E2723; }
+.highlight .hll { background-color: #3E2723;}
+/*.highlight pre { background-color: #272822; }
+.highlight .hll { background-color: #272822; }*/
 .highlight .c { color: #75715e } /* Comment */
 .highlight .err { color: #960050; background-color: #1e0010 } /* Error */
 .highlight .k { color: #66d9ef } /* Keyword */
