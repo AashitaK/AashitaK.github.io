@@ -382,7 +382,7 @@ nav.pagination {
     float: none;
     padding-top: 3.75rem; }
 
-    .notepad-site-footer .social-icons a { 
+    .notepad-site-footer .social-icons a {
       color: black;
       font-size: 15px;
       margin-left: 8px;
@@ -398,7 +398,7 @@ nav.pagination {
       float: left; }
     .notepad-site-footer .social-icons {
       text-align: right;
-      float: right; } 
+      float: right; }
     .notepad-site-footer social-icons }*/
 
 
@@ -556,7 +556,7 @@ figcaption {
     border-radius: 4px;
 }
 /* Syntax highlighter monokai https://github.com/jwarby/jekyll-pygments-themes/blob/master/monokai.css */
-pre.highlight, .highlight pre { background-color: #3E2723; }
+pre.highlight, .highlight pre { background-color: #3E2723; padding: 1em 1em; }
 .highlight .hll { background-color: #3E2723;}
 /*.highlight pre { background-color: #272822; }
 .highlight .hll { background-color: #272822; }*/
@@ -622,16 +622,17 @@ pre.highlight, .highlight pre { background-color: #3E2723; }
 .highlight .gu { color: #75715e; } /* Generic.Subheading & Diff Unified/Comment? */
 .highlight .gd { color: #f92672; } /* Generic.Deleted & Diff Deleted */
 .highlight .gi { color: #a6e22e; } /* Generic.Inserted & Diff Inserted */
+.highlight .lineno { color: #ccc; display:inline-block; padding: 5 10px; border-right:10px solid #ccc; }
 /*pre.highlight,
 .highlight pre { background-color: #272822; }*/
 .chart {
   max-width: 56.250rem;
   margin-right: auto;
   margin-left: auto;
-} 
+}
 /* =====================================
  * :: Select Text to Share CSS
- * 
+ *
  * @ Author: Hadrien Boyer
  * @ Website: http://hadrien-boyer.fr
  * @ v.0.1 - Last update : 2014/06/29
@@ -699,7 +700,7 @@ pre.highlight, .highlight pre { background-color: #3E2723; }
   top:0;
   left:0;
 }
-.tooltipContainer a { 
+.tooltipContainer a {
   width: 100%;
   background:transparent url(/images/sprites.png) 0px 0px no-repeat;
   padding:0;
