@@ -93,7 +93,7 @@ Once a basic webpage is set up, there are many interesting ways to polish it bas
 * Forking from one of the openly available [Jekyll themes](https://github.com/search?utf8=%E2%9C%93&q=jekyll+themes&type=) on Github and working on it to build a customized website (It will be very helpful and perhaps necessary to install and use Jekyll locally on your computer for this and also make use of git).
 * Making blog posts.
 * Including a comment section, like this blog has [disqus](https://disqus.com/) below.
-* Setting up a custom domain.
+* Setting up a custom domain via CNAME file.
 * Including [MathJax](https://www.mathjax.org/) to typeset mathematical expressions.
 * Adding buttons for linking with social media.
 * Using [google analytics](https://analytics.google.com/analytics/web/) to track traffic on website.
