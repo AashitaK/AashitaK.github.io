@@ -81,7 +81,7 @@ Once you add and modified the content, the changes are commited in the same way 
 
 ![]({{ site.url }}/images/GitHubPages/screenshot-10.png){:width="890px"}
 
-The changes made will be reflected in the website. Sometimes it takes some time and a few more commits for the changes to appear in the website.
+The content from the ReadMe markdown file will be rendered to the website via the chosen theme. Sometimes it takes some time and a few more commits for the changes to appear in the website.
 
 ![]({{ site.url }}/images/GitHubPages/screenshot-11.png){:width="890px"}
 
