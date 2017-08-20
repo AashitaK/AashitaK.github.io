@@ -25,8 +25,8 @@ from wikipedia has been copy and pasted into the file ```university_towns.txt```
 The data analysis is done in the following steps:
 1. A dataframe of university towns is obtained with the names of state and town as multi-index.
 2. A dataframe for GDP as well as differences in GDP is obtained and then quarters corresponding to the start of the recession as well as recession bottom are identified.
-3. A dataframe for housing prices are obtained in desirable format which contains prices for both university and non-university towns
-4. The hypothesis is tested comparing the price ratio for university vs non-university towns
+3. A dataframe for housing prices are obtained in desirable format which contains prices for both university and non-university towns.
+4. The hypothesis is tested comparing the price ratio for university vs non-university towns.
 
 Terminology:
 * A _university town_ is a city which has a high percentage of university students compared to the total population of the city.
