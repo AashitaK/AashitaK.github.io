@@ -2,18 +2,16 @@ The divisibility by 2 of the sequence of natural numbers follows a very predicta
 divisible by 2. Out of the remainining numbers, that are even numbers, every second is not divisible by 4 and so on. 
 The highest power of 2 that divides a natural number $n$ is called valuation of $n$ with respect to 2, denoted by $\nu_2(n)$. 
 For example, $\nu_2(12)=2$ since $4$ divides $12$ but not $8$. In view of above, the valuation with respect to 2 of the 
-sequence of natural numbers is 0 for every other number, then out of the remaining ones it is 1 for every other number and 
+sequence of natural numbers is 0 for every other number, then out of the remaining numbers it is 1 for every other number and 
 so on. It can be summarized as a valuation tree, pasted here:
 
-So this valuation tree is completely known. We know that at any level, the left branch will terminates and the right 
-one continues. The valuation trees can be used to represent the valuations of any integer sequence. Often times, 
-such a clear picture is not available. Now we study the valuations for sets that are composed of natural numbers 
-coming from sums of four squares and find interesting results.
+This valuation tree is completely known. We know that at any level, the left branch will terminates and the right 
+one continues. In general while studying the valuations of integer sequence, such a predictable pattern in valuation trees does not occur for non-terminating trees[ref]. In this paper we study the valuations for sets that are composed of natural numbers coming from sums of four squares. The results again follows predictible, though somewhat non-intuitive patterns. However, this kind of predictibility in patterns is unwarranteed given that if we either change $p=2$ to any odd prime or increasing the number of squares to more than 4, then the pattern no longer holds. So, the combination of $p=2$ and sum of 
+four squares is special, for reasons given below.
 
-Lagrange's four-square theorem says every natural number can be written as a sum of four squares or less. For a natural number,
-say $n$, there are multiple ways to representation as sums of four squares given by $r_4(n)$. So, if we considered a set of 
+Lagrange's four-square theorem says every natural number can be written as a sum of four squares or less. Let $S$ be set of 
 numbers S that is obtained by ......., the question I studied was very basic: what can we say about the valuation wrt $2$ 
-of numbers in this set. As we know in case of the set of natural numbers, a fourth of them are divisible by $4$ but not $8$. What proportion of numbers in this set are divisible by $4$ but not $8$. It turns out that the answer is not the same as for the natural numbers but it is also very *regular* in the sense defined later. 
+of numbers in this set. For a natural number, say $n$, there are multiple ways to represent $n$ as sums of four squares given by $r_4(n)$. As we know in case of the set of natural numbers, a fourth of them are divisible by $4$ but not $8$. What proportion of numbers in this set are divisible by $4$ but not $8$. It turns out that the answer is not the same as for the natural numbers but it is also very *regular* in the sense defined later. 
 
 Moreover, the same analysis is done for the subsets of the above set S obtained by fixing one of the squares, we again get a 
 pattern. The same is also true for even smaller subsets obtaining by fixing two or three squares. 
