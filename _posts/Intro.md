@@ -22,6 +22,7 @@ Q: Mistake in Thm 3.9
 
 Put fixing one at the top.
 Change sequences to sets everywhere
+Move legendres 3 square from section 2
 
 
 
