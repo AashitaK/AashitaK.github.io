@@ -17,7 +17,9 @@ Though the idea and exploration of the questions studied in this paper came from
 
 
 Q: can N be replaced with Z?
+Q: Rephrase theorems with probability replaced by proportions? What about the proof?
 Q: Mistake in Thm 3.9
+
 Put fixing one at the top.
 Change sequences to sets everywhere
 
