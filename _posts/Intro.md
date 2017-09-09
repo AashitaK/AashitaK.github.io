@@ -1,13 +1,30 @@
-Lagrange's four-square theorem says every natural number can be written as a sum of four squares or less. Let $S = \{ a^2+b^2+c^2+d^2: a,b,c,d \in N \}$, then set $S$ is effectively the set of natural numbers with each number repeating a certain number of times. Given any power of $2$ no matter how high say $v$, there are infinitely many natural numbers that are divisible by $2^v$ spread out at regular intervals of length $2^v$. Consequently, there are infinitely many numbers divisible by any high power of $2$ in the set $S$ as well. However, if we put a restriction on this set $S$, say we fix one of the four squares $a^2$ while letting $b,c$ and $d$ vary over all natural numbers as above, then the study of the divisibility by powers of $2$ of the subset we thus obtained say $S(a)$ gives counterintuitive results. We no longer have numbers divisible by high enough powers of $2$ in the set $S(a)$. On the other hand, if we ask the question whether there exist a high enough power say $v$ such that no set $S(a)$ has any number divisible by $2^v$. The answer is negative. That is for any large numberThe highest power of $2$ that will divide any number of this subset depends on $a$, in particular related to the power of $4$ that divides $a$.
+Lagrange's four-square theorem says every natural number can be written as a sum of four squares or less. Let $S = \{ a^2+b^2+c^2+d^2: a,b,c,d \in N \}$, then set $S$ is effectively the set of natural numbers with each number repeating a certain number of times. Given any power of $2$ no matter how high say $v$, there are infinitely many natural numbers that are divisible by $2^v$ spread out at regular intervals of length $2^v$ in the number line. Consequently, there are infinitely many numbers divisible by any high power of $2$ in the set $S$ as well. If we put a restriction on this set $S$, say we fix one of the four squares $a^2$ while letting $b,c$ and $d$ vary over all natural numbers as above, the we obtain a subset say $S(a)$. In the paper, we studied the divisibility by powers of $2$ of the subset $S(a)$ and the results obtained are counterintuitive. For any number $a$, there is a big enough power of $2$ say $v$ such that no number in the set $S(a)$ is divisible by $2^v$. For example, . On the other hand, given any power of $2$, no matter how big, there exists infinitely many natural numbers $a$ such that the set $S(a)$ has infinitely many numbers divisible by that power. The existence of such an $a$ such that $S(a)$ has numbers divisible by high powers of $2$ is not surprising since the union of the sets $S(a)$ as $a$ vary over natural numbers gives back the set $S$ that has numbers divisible by all powers of $2$. However, the existence of infinitely many such $a$'s regularly spaced in the number line (?) and also the fact that in each of such set $S(a)$ there are infinitely many numbers divisible by that power of $2$ is interesting and points to the inherent pattern of divisibility by $2$ similar to that of the number line. 
+
+The highest power of 2 that divides a natural number $n$ is called valuation of $n$ with respect to 2, denoted by $\nu_2(n)$. 
+The same analysis is done for two more kinds of sets obtained by fixing two or three squares respectively in the set $S$ and similar results are observed. However, it is noteworthy that this phenomena occurs only when we consider the sums of four squares some of which are fixed and the divisibility is studied with respect to $2$. If we consider the sets of sums of five or more squares, then even in the case when we fix four of the squares and let only one vary, for example $$ we see the set contains numbers divisible by all powers of $2$. Similarly, if we consider the sums of four squares, but instead consider the divisibility by an odd prime, then again the phenomena no longer holds. For example,  
+
+The combination of $p=2$ and sums of four squares is special in view of the following facts:
+* Hensel's lemma does not hold true for certain cases and the quadratic $x^2+a$ and $p=2$ precisely fits the criteria.
+* For a fixed number $a$, the set of integer polynomials $\{x^2+a : x \in N \}$ has numbers divisible by any high power of $2$ if and only if $a$ is of the form $4^m(8b+7)$.
+* Legendre's three-square theorem: An integer $a$ can be written as sum of three or less squares if and only if $a$ is not of the form $4^m(8b+7)$.
+
+Though the idea and exploration of the questions studied in this paper came from working on another paper that involved the study of the valuations of integer polynomials $\nu_2(x^2+a)$, the proofs presented here are straighforward, elementary and self-sufficient to appreciate the results. The first section of the paper lists all the results. The second, third and fourth studies the divisibility by $2$ while fixing three, two and one squares. The last section studies why the phenomena fails for any other combination of primes and sums of squares.
+
+
+So, for every $a$, we can find the highest power of $2$ that divides atleast one number in the set, call it as $\lambda(a)$. For the sets like $S(a)$, the $\lambda(a)$ is directly proportional to the highest power of $2$ that divides $a$. In view of this and the fact that the union of the sets $S(a)$ over natural numbers $a$ gives the set $S$, it is not surprising 
+On the other hand, if we ask the question whether there exist a high enough power say $v$ such that no set $S(a)$ has any number divisible by $2^v$. The answer is negative. That is for any large numberThe highest power of $2$ that will divide any number of this subset depends on $a$, in particular related to the power of $4$ that divides $a$.
 
 The divisibility by $2$ of the sequence of natural numbers follows a very predictable pattern. Every second number is 
 divisible by $2$. Out of those numbers, that are even, every second is divisible by 4 and so on. In fact, . On the other hand,  Obviously this set will have infinitely many numbers divisible by any high power of $2$.   For example, fixing  
 
 This paper studies the basic question of divisibility by $2$ of the subsets of the set $S$ obtained by fixing one or more of the squares and the results are counterintutitive.
-The highest power of 2 that divides a natural number $n$ is called valuation of $n$ with respect to 2, denoted by $\nu_2(n)$. 
+
 For example, $\nu_2(12)=2$ since $4$ divides $12$ but not $8$. In view of above, the valuation with respect to 2 of the 
 sequence of natural numbers is 0 for every other number, then out of the remaining numbers it is 1 for every other number and 
 so on. It can be summarized as a valuation tree, pasted here:
+
+
+
 
 This valuation tree is non-terminating, that is In this paper we study the valuations for sets that are composed of natural numbers coming from sums of four squares. The results again follows predictible, though somewhat non-intuitive patterns. However, this kind of predictibility in patterns is unwarranteed given that if we either change $p=2$ to any odd prime or increasing the number of squares to more than 4, then the pattern no longer holds. So, the combination of $p=2$ and sum of four squares is special, as discussed in the later part of the introduction. 
 
@@ -28,10 +45,6 @@ by certain high enough powers of 2, give example for $8$........
 
 
 This special relation between sums of squares and prime $p=2$ happens for a reason. The valuations of all our above sets can be linked to the valuation of the polynomial $x^2+a$ where $a$ is a constant number and $x$ varies over natural numbers. There are certain facts:
-* Hensel's lemma does not hold true for certain cases and the quadratic $x^2+a$ and $p=2$ precisely fits the criteria.
-* The set of valuations of integer polynomials $\nu_2(x^2+a)$ is not bounded if and only if $a$ is of the form $4^m(8b+7)$.
-* An integer $a$ can be written as sum of three or less squares if and only if $a$ is of the form $4^m(8b+7)$.
-
 
 This analysis is deeply connected to the function $r_k(n)$, the number of ways to represent $n$ as sum of $k$ squares, that distinctly re-appears at many interesting places in number theory and combinatorics.
 
