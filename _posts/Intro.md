@@ -19,7 +19,7 @@ Though the idea and exploration of the questions studied in this paper came from
 Q: can N be replaced with Z?
 Q: Mistake in Thm 3.9
 Put fixing one at the top.
-
+Change sequences to sets everywhere
 
 
 
