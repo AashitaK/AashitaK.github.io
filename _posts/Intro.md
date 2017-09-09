@@ -9,10 +9,10 @@ It is noteworthy to mention that this phenomena occurs only when we consider the
 
 The combination of $p=2$ and sums of four squares is special in view of the following facts:
 * Hensel's lemma does not hold true for certain cases and the quadratic $x^2+a$ and $p=2$ precisely fits the criteria.
-* For a fixed number $a$, the set of integer polynomials $\{x^2+a : x \in N \}$ has numbers divisible by any high power of $2$ if and only if $a$ is of the form $4^m(8b+7)$.
-* Legendre's three-square theorem: An integer $a$ can be written as sum of three or less squares if and only if $a$ is not of the form $4^m(8b+7)$.
+* For a fixed number $a$, the set of integer polynomials $\{x^2+k : x \in N \}$ has numbers divisible by any high power of $2$ if and only if $k$ is of the form $4^m(8b+7)$.
+* Legendre's three-square theorem: An integer $a$ can be written as sum of three or less squares if and only if $k$ is not of the form $4^m(8l+7)$.
 
-Though the idea and exploration of the questions studied in this paper came from working on another paper that involved the study of the valuations of integer polynomials $\nu_2(x^2+a)$, the proofs presented here are straighforward, elementary and self-sufficient to appreciate the results. The first section of the paper lists all the results. The second, third and fourth studies the divisibility by $2$ while fixing three, two and one squares. The last section studies why the phenomena fails for any other combination of primes and the sums of squares.
+Though the idea and exploration of the questions studied in this paper came from working on another paper that involved the study of the valuations of integer polynomials $\nu_2(x^2+k)$, the proofs presented here are straighforward, elementary and self-sufficient to appreciate the results. The first section of the paper lists all the results. The second, third and fourth studies the divisibility by $2$ while fixing three, two and one squares. The last section studies why the phenomena fails for any other combination of primes and the sums of squares.
 
 
 
