@@ -1,9 +1,11 @@
 Lagrange's four-square theorem says every natural number can be written as a sum of four squares or less. Let $S = \{ a^2+b^2+c^2+d^2: a,b,c,d \in N \}$, then set $S$ is effectively the set of natural numbers with each number repeating a certain number of times. Given any power of $2$ no matter how high say $v$, there are infinitely many natural numbers that are divisible by $2^v$ spread out at regular intervals of length $2^v$ in the number line. Consequently, there are infinitely many numbers divisible by any high power of $2$ in the set $S$ as well. 
 
-If we put a restriction on this set $S$, say we fix one of the four squares $a^2$ while letting $b,c$ and $d$ vary over all natural numbers as above, the we obtain a subset say $S(a)$. In the paper, we studied the divisibility by powers of $2$ of the subset $S(a)$ and the results obtained are counterintuitive. For any number $a$, there is a big enough power of $2$ say $v$ such that no number in the set $S(a)$ is divisible by $2^v$. For example, . On the other hand, given any power of $2$, no matter how big, there exists infinitely many natural numbers $a$ such that the set $S(a)$ has infinitely many numbers divisible by that power. The existence of such an $a$ such that $S(a)$ has numbers divisible by high powers of $2$ is not surprising since the union of the sets $S(a)$ as $a$ vary over natural numbers gives back the set $S$ that has numbers divisible by all powers of $2$. However, the existence of infinitely many such $a$'s regularly spaced in the number line (?) and also the fact that in each of such set $S(a)$ there are infinitely many numbers divisible by that power of $2$ points to the inherent pattern of divisibility by $2$ similar to that of the number line. 
+If we put a restriction on this set $S$, say we fix one of the four squares $a^2$ while letting $b,c$ and $d$ vary over all natural numbers as above, the we obtain a subset say $S(a)$. In the paper, we asked the same question whether there are numbers in the set $S(a)$ divisibile by large enough powers of $2$ and counterintuitively, the answer is in the negative. For any number $a$, there is a large enough power of $2$ say $v$ such that no number in the set $S(a)$ is divisible by $2^v$. For example, ------ . On the other hand, given any power of $2$, no matter how big, there exists infinitely many natural numbers $a$ such that the set $S(a)$ has infinitely many numbers divisible by that power. The existence of such an $a$ such that $S(a)$ has numbers divisible by a given power of $2$ is not surprising since the union of the sets $S(a)$ as $a$ vary over natural numbers gives back the set $S$ that has numbers divisible by all powers of $2$. However, the existence of infinitely many such $a$'s regularly spaced in the number line (?) and also the fact that in each of such set $S(a)$ there are infinitely many numbers divisible by that power of $2$ points to the inherent pattern of divisibility by $2$ similar to that of the number line. We also found out that for a fixed power of $2$ say $v$, what proportion of sets $S(a)$ has numbers divisible by $2^v$. For example, as we look at sets $S(a)$ for different values of the natural number $a$, exactly half of the sets contains no numbers divisible by $16$.
 
-The highest power of 2 that divides a natural number $n$ is called valuation of $n$ with respect to 2, denoted by $\nu_2(n)$. 
-The same analysis is done for two more kinds of sets obtained by fixing two or three squares respectively in the set $S$ and similar results are observed. However, it is noteworthy that this phenomena occurs only when we consider the sums of four squares some of which are fixed and the divisibility is studied with respect to $2$. If we consider the sets of sums of five or more squares, then even in the case when we fix four of the squares and let only one vary, for example $$ we see the set contains numbers divisible by all powers of $2$. Similarly, if we consider the sums of four squares, but instead consider the divisibility by an odd prime, then again the phenomena no longer holds. For example,  
+
+Like the sets $S(a)$ obtained by fixing one of the four squares in the sums of four squares, we also consider two more kinds of sets obtained by fixing two or three sqaures respectively. The similar analysis is done for these two more kinds of sets $S(a,b)$ and $S(a,b,c)$ and results obtained are similar in nature. 
+
+It is noteworthy to mention that this phenomena occurs only when we consider the sums of four squares some of which are fixed and the divisibility is studied with respect to $2$. If we consider the sets of sums of five or more squares, then even in the case when we fix four of the squares and let only one vary, for example $-----$ we see the set contains numbers divisible by all powers of $2$. Similarly, if we consider the sums of four squares, but instead consider the divisibility by an odd prime, then again the phenomena no longer holds. For example, ------ 
 
 The combination of $p=2$ and sums of four squares is special in view of the following facts:
 * Hensel's lemma does not hold true for certain cases and the quadratic $x^2+a$ and $p=2$ precisely fits the criteria.
@@ -12,6 +14,23 @@ The combination of $p=2$ and sums of four squares is special in view of the foll
 
 Though the idea and exploration of the questions studied in this paper came from working on another paper that involved the study of the valuations of integer polynomials $\nu_2(x^2+a)$, the proofs presented here are straighforward, elementary and self-sufficient to appreciate the results. The first section of the paper lists all the results. The second, third and fourth studies the divisibility by $2$ while fixing three, two and one squares. The last section studies why the phenomena fails for any other combination of primes and sums of squares.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The highest power of 2 that divides a natural number $n$ is called valuation of $n$ with respect to 2, denoted by $\nu_2(n)$. 
 
 So, for every $a$, we can find the highest power of $2$ that divides atleast one number in the set, call it as $\lambda(a)$. For the sets like $S(a)$, the $\lambda(a)$ is directly proportional to the highest power of $2$ that divides $a$. In view of this and the fact that the union of the sets $S(a)$ over natural numbers $a$ gives the set $S$, it is not surprising 
 On the other hand, if we ask the question whether there exist a high enough power say $v$ such that no set $S(a)$ has any number divisible by $2^v$. The answer is negative. That is for any large numberThe highest power of $2$ that will divide any number of this subset depends on $a$, in particular related to the power of $4$ that divides $a$.
