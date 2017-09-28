@@ -14,12 +14,12 @@ mathjax:
 
 The hypothesis that the university towns have their mean housing prices less effected by recessions is tested. To get a measure of the change in housing prices due to recession, a ratio of mean price of houses is used - for the quarter before the recession starts to that of the recession bottom. The price ratio for the university towns is compared with that of other towns by running a t-test using ```scipy.stats.ttest_ind```.
 
-The data used here can be found at:
+The analysis is part of an assignment for a MOOC course, that is not referenced here due to course policy. The data used here can be found at:
 * The housing data from the
 [Zillow research data site](http://www.zillow.com/research/data/) stored in the file ```City_Zhvi_AllHomes.csv```.
 * The list of
 [university towns in the United States](https://en.wikipedia.org/wiki/List_of_college_towns#College_towns_in_the_United_States)
-from wikipedia has been copy and pasted into the file ```university_towns.txt```.
+from wikipedia copied and pasted into the file named ```university_towns.txt```.
 * The [GDP over time](http://www.bea.gov/national/index.htm#gdp) of the United States from the Bureau of Economic Analysis, US Department of Commerce, stored in the file ```gdplev.xls```
 
 The data analysis is done in the following steps:
