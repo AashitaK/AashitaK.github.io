@@ -5,7 +5,7 @@ title: Aashita Kesarwani
 tags: [Aashita, Kesarwani, akesarwa, aashitak, aaashitak, IIT, Roorkee, Gondia, Tulane, data scientist, machine learning, PhD]
 imagefeature: 
 chart: true
-mathjax: true
+mathjax: true 
 ---
 I am a recent math PhD graduate and a machine learning enthusiast.
 [Here](/images/Aashita_Resume.pdf) is a link to my resume and a couple of projects mentioned in the resume are posted as blogs:
