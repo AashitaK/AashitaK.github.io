@@ -10,7 +10,7 @@ mathjax: true
 I am a recent math PhD graduate and a machine learning enthusiast.
 [Here](/images/Aashita_Resume.pdf) is a link to my resume and a couple of projects mentioned in the resume are posted as blogs:
 
-[//]: #(![Aashita Kesarwani](/images/Aashita_Resume.jpg){:width="1080px"})
+[//]: #(![Aashita Kesarwani](/images/Aashita_resume.jpg){:width="1080px"})
 
 
 - [The effect of recession on housing prices in university towns](http://www.aashitak.com/projects/Testing-Hypothesis)
