@@ -7,11 +7,7 @@ imagefeature:
 chart: true
 mathjax: true
 ---
-I am a PhD candidate in Mathematics at Tulane University working in number theory expecting to graduate in December 2017. My advisor is Prof. Moll and co-advisor is [Prof. Atul Dixit](http://www.iitgn.ac.in/faculty/maths/atul.htm) with whom I recently worked on finding a [beautiful generalization of Ramanujan-Guinand identity and in the process found and studied a new generalization of the modified Bessel function of the second kind $$K_z(x)$$](https://www.sciencedirect.com/science/article/pii/S0022247X17309496). 
-
-
-I am an aspiring data scientist and a machine learning enthusiast. 
-
+I am a recent math PhD graduate and a machine learning enthusiast.
 [Here](/images/Aashita_Resume.pdf) is a link to my resume and a couple of projects mentioned in the resume are posted as blogs:
 
 [//]: #(![Aashita Kesarwani](/images/Aashita_Resume.jpg){:width="1080px"})
