@@ -12,7 +12,6 @@ I am a recent math PhD graduate and a machine learning enthusiast.
 
 [//]: #(![Aashita Kesarwani](/images/Aashita_resume.jpg){:width="1080px"})
 
-
 - [The effect of recession on housing prices in university towns](http://www.aashitak.com/projects/Testing-Hypothesis)
 - [Plotting record temperatures for New Orleans](http://www.aashitak.com/projects/Plotting-Temperatures-NOLA)
 
