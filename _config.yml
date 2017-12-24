@@ -10,7 +10,6 @@ dropcap:			    true
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
 url:        	  
 
-
 # Owner/author information
 owner:
   name:           Aashita Kesarwani
