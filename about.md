@@ -8,7 +8,7 @@ chart: true
 mathjax: true 
 ---
 I am a recent math PhD graduate and a machine learning enthusiast.
-[Here](/images/Aashita_resume.pdf) is a link to my resume and a couple of projects mentioned in the resume are posted as blogs:
+[Here](/images/Aashita_resume.pdf) is a link to my resume and some of the projects mentioned in the resume can be found at the following links:
 
 [//]: #(![Aashita Kesarwani](/images/Aashita_resume.jpg){:width="1080px"})
 
