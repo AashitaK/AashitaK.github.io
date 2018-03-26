@@ -1095,3 +1095,9 @@ img.mfp-img {
         font-size: 1.2em;
         content: "k";   #any letter of your choice but for kaggle "k"
 }
+.fa-font:before {
+        font-family: roboto;
+        color: #000000;
+        font-size: 1.2em;
+        content: "k";   #any letter of your choice but for kaggle "k"
+}
