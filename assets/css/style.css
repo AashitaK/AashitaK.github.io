@@ -1089,3 +1089,9 @@ img.mfp-img {
 .my-fa-twitter:before {
   content: "\f099";
 }
+.fa-font:before {
+        font-family: roboto;
+        color: #429bf4;
+        font-size: 1.2em;
+        content: "k";   #any letter of your choice but for kaggle "k"
+}
