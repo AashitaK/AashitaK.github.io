@@ -13,7 +13,7 @@ I am a recent math PhD graduate and a machine learning enthusiast.
 [//]: #(![Aashita Kesarwani](/images/Aashita_resume.jpg){:width="1080px"})
 
 
-- [Titanic survival prediction(Top 3% score in Kaggle competition)](https://www.kaggle.com/aashita/xgboost-model-with-minimalistic-features)
+- [Titanic survival prediction (Top 3% score in Kaggle competition)](https://www.kaggle.com/aashita/xgboost-model-with-minimalistic-features)
 - [2018 NCAA Division I Men’s Basketball Championships predictions](https://www.kaggle.com/aashita/feature-engineering-for-march-madness)
 - [The effect of recession on housing prices in university towns](http://www.aashitak.com/projects/Testing-Hypothesis)
 - [Plotting record temperatures for New Orleans](http://www.aashitak.com/projects/Plotting-Temperatures-NOLA)
