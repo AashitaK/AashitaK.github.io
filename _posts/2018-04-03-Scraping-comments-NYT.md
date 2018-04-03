@@ -11,7 +11,7 @@ comments: true
 share: true
 mathjax:
 ---
-I recently contributed a dataset to [Kaggle](https://www.kaggle.com/aashita/nyt-comments) consisting of comments on articles published in the New York Times in March 2018 and Jan-Feb 2017. The blog is intend to put out the code and explain the process so that comments from any time period can be scraped if desired. One can also customize the search of articles to a specific topic - say Iraq war or ObamaCare - along with the timeline by making slight modification to the code below. The data gathered here is stored as two pickled dictionaries - one each for the comments and the articles. These dictionaries can be converted to `csv` files and features can be extracted from them as desired, as explained in the notebook [here](https://www.kaggle.com/aashita/preprocessing-raw-pickled-data-to-csv-file). The collected data comprising of the comments and articles is explored, analyzed and presented with graphs [here](https://www.kaggle.com/aashita/nyt-comments-eda). There are also [word clouds](http://www.aashitak.com/data%20science/Wordclouds) obtained from the most frequent words in the dataset.
+I recently contributed a [dataset to Kaggle](https://www.kaggle.com/aashita/nyt-comments) consisting of comments on articles published in the New York Times in March 2018 and Jan-Feb 2017. The blog is intend to put out the code and explain the process so that comments from any time period can be scraped if desired. One can also customize the search of articles to a specific topic - say Iraq war or ObamaCare - along with the timeline by making slight modification to the code below. The data gathered here is stored as two pickled dictionaries - one each for the comments and the articles. These dictionaries can be converted to `csv` files and features can be extracted from them as desired, as explained in the [notebook here](https://www.kaggle.com/aashita/preprocessing-raw-pickled-data-to-csv-file). The collected data comprising of the comments and articles is explored, analyzed and presented with graphs [here](https://www.kaggle.com/aashita/nyt-comments-eda). There are also [word clouds](http://www.aashitak.com/data%20science/Wordclouds) obtained from the most frequent words in the dataset.
 
 ### Extracting comments from an article in New York Times
 
@@ -107,7 +107,7 @@ def run_rounds(page_lower, page_upper, begin_date, filename):
 
 Among all the articles published in NYT in Jan-Feb 2017, roughly 15% of them were open for comments. The code above stores the information only about those articles that have been commented on, but it can be easily modified to store information about all the articles and it can also be modified to store information only about the articles and not the comments. We have also ignored the multimedia articles entirely.
 
-The following function is to store the articles and comments dictionaries as pickled files. The notebook here (INCLUDE LINK) details the process to load the pickled data and convert it to pandas dataframes. The structure of the dictionaries and the information stored in them is also analyzed in the notebook.
+The following function is to store the articles and comments dictionaries as pickled files. The [notebook here](https://www.kaggle.com/aashita/preprocessing-raw-pickled-data-to-csv-file) details the process to load the pickled data and convert it to pandas dataframes. The structure of the dictionaries and the information stored in them is also analyzed in the notebook.
 
 
 ```python
