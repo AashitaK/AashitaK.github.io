@@ -6,7 +6,7 @@ headline:
 modified:
 category: Data Science
 tags: [comments-NYT]
-imagefeature: NYT.jpg
+imagefeature:
 comments: true
 share: true
 mathjax:
