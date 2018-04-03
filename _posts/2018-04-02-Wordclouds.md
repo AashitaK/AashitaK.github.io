@@ -12,7 +12,30 @@ share: true
 mathjax:
 ---
 
-Word cloud for the most frequent words from the readers' comments on articles published in New York Times 
-in March 2018 and Jan-Feb  2017:
+Word cloud from the from the readers' comments on articles published in New York Times 
+in March 2018 and Jan-Feb 2017 are given below.
+
+Most common words in all of the comments:
+
 
 ![Wordcloud on comments in NYT]({{ site.url }}/images/Wordclouds/wc1.png)
+
+
+Most common words in the top 1% most upvoted comments:
+
+
+![Wordcloud on comments in NYT]({{ site.url }}/images/Wordclouds/wc2.png)
+
+
+Most common words in the comments selected as NYT's pick:
+
+![Wordcloud on comments in NYT]({{ site.url }}/images/Wordclouds/wc3.png)
+
+
+Usernames that commented most often:
+
+![Wordcloud on comments in NYT]({{ site.url }}/images/Wordclouds/wc4.png)
+
+Most common locations of the commenters:
+
+![Wordcloud on comments in NYT]({{ site.url }}/images/Wordclouds/wc5.png)
