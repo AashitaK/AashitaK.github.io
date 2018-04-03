@@ -32,7 +32,7 @@ Most common words in the comments selected as NYT's pick:
 ![Wordcloud on comments in NYT]({{ site.url }}/images/Wordclouds/wc3.png)
 
 
-Usernames that commented most often:
+Usernames with most comments:
 
 ![Wordcloud on comments in NYT]({{ site.url }}/images/Wordclouds/wc4.png)
 
