@@ -39,4 +39,4 @@ Most common locations of the commenters:
 
 ![Wordcloud on comments in NYT]({{ site.url }}/images/Wordclouds/wc5.png)
 
-The code for generating the above wordclouds out of the [NYT comments data](https://www.kaggle.com/aashita/nyt-comments) can be found [here](https://www.kaggle.com/aashita/word-clouds).
+[Here is the notebook](https://www.kaggle.com/aashita/word-clouds) with code for generating the above wordclouds out of the [NYT comments data](https://www.kaggle.com/aashita/nyt-comments).
