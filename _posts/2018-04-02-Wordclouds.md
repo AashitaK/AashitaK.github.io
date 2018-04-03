@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Word clouds on comments from the articles in New York Times
-description: "Word clouds on comments from the articles in New York Times"
+description: "Word clouds"
 headline:
 modified:
 category: Data Science
