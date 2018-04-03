@@ -12,8 +12,7 @@ share: true
 mathjax:
 ---
 
-Word clouds from the from the readers' comments on articles published in New York Times 
-in March 2018 and Jan-Feb 2017 are given below.
+Word clouds from the [data comprising the readers' comments](https://www.kaggle.com/aashita/nyt-comments) on articles published in New York Times in March 2018 and Jan-Feb 2017 are given below.
 
 Most common words in all of the comments:
 
@@ -39,3 +38,5 @@ Usernames with most comments:
 Most common locations of the commenters:
 
 ![Wordcloud on comments in NYT]({{ site.url }}/images/Wordclouds/wc5.png)
+
+The code for generating the wordclouds out of the data can be found [here](https://www.kaggle.com/aashita/word-clouds).
