@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Extracting comments from the articles in New York Times
