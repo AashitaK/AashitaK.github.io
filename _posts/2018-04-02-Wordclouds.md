@@ -12,7 +12,7 @@ share: true
 mathjax:
 ---
 
-Word cloud from the from the readers' comments on articles published in New York Times 
+Word clouds from the from the readers' comments on articles published in New York Times 
 in March 2018 and Jan-Feb 2017 are given below.
 
 Most common words in all of the comments:
