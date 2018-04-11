@@ -7,8 +7,16 @@ imagefeature:
 chart: true
 mathjax: true 
 ---
-I am a recent math PhD graduate and a machine learning enthusiast.
-[Here](/images/Aashita_resume.pdf) is a link to my resume and some of the projects mentioned in the resume can be found at the following links:
+I am a recent math PhD graduate and a machine learning enthusiast. Below are some of the links detailing my current project concerning comments posted on New York Times articles.
+
+- [Python package](https://github.com/AashitaK/nyt-comments) to retrieve comments from a customized search of the NYT articles concerning a specific topic in a given timeline and to preprocess the data into pandas dataframes with an option to store it as csv files. 
+- The package is accompanied with an [illustrative tutorial](https://github.com/AashitaK/nyt-comments/blob/master/Tutorial.ipynb) for its use containing detailed information regarding the functions and their parameters.
+- A [dataset](https://www.kaggle.com/aashita/nyt-comments) comprising of over 700,000 comments with 33 features and over 3,000 articles with 16 features contributed on Kaggle along with the ideas for models that can be built using the dataset.
+- An [exploratory kernel]((https://www.kaggle.com/aashita/nyt-comments-eda) analyzing the data features and their inter-relationship with statistical graphs. 
+- [Logistic regression model](https://www.kaggle.com/aashita/starter-kernel-for-predicting-nyt-s-pick/log) built with features generated using Tfidf vectorizer on words and character n-grams of comments' text to predict the probability that a certain comment will be selected as NYT's pick. 
+- [Word clouds](http://www.aashitak.com/data%20science/Wordclouds) from the dataset for fun. 
+
+[Here](/images/Aashita_resume.pdf) is a link to my resume and some of my past projects can be found at the following links:
 
 [//]: #(![Aashita Kesarwani](/images/Aashita_resume.jpg){:width="1080px"})
 
