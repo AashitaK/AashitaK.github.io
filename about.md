@@ -9,7 +9,7 @@ mathjax: true
 ---
 I am a recent math PhD graduate and a machine learning enthusiast. Below are some of the links detailing my current project concerning comments posted on New York Times articles.
 
-- [Python package](https://github.com/AashitaK/nyt-comments) to retrieve comments from a customized search of the NYT articles concerning a specific topic in a given timeline and to preprocess the data into pandas dataframes with an option to store it as csv files. 
+- [Python package](https://github.com/AashitaK/nyt-comments) to retrieve comments from a customized search of the NYT articles concerning a specific topic in a given timeline and to preprocess the data into pandas dataframes with an option to store them as csv files. 
 - The package is accompanied with an [illustrative tutorial](https://github.com/AashitaK/nyt-comments/blob/master/Tutorial.ipynb) for its use containing detailed information regarding the functions and their parameters.
 - A [dataset](https://www.kaggle.com/aashita/nyt-comments) comprising of over 700,000 comments with 33 features and over 3,000 articles with 16 features contributed to Kaggle along with the ideas for models that can be built using the dataset.
 - [Exploratory data analysis](https://www.kaggle.com/aashita/nyt-comments-eda) of the features contained in the comments' and articles' dataset with statistical graphs. 
