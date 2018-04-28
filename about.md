@@ -8,11 +8,18 @@ chart: true
 mathjax: true 
 ---
 I am a recent math PhD graduate and a machine learning enthusiast. Below are some of the links detailing my current project concerning comments posted on New York Times articles.
+- Contributed a [dataset](https://www.kaggle.com/aashita/nyt-comments) comprising of over ***2 million comments with 34 features*** as well as ***16 features*** concerning over ***8750 NYT articles*** spanning Jan-May 2017 and Jan-April 2018 to Kaggle along with the ideas for data science projects. The dataset is at the [top among the 20 featured datasets](https://www.kaggle.com/aashita/nyt-comments) on Kaggle.
+- Built a [Python package](https://github.com/AashitaK/nyt-comments) that includes three main functions to perform three distinct tasks involving the retrieval of comments' and articles' from New York Times as ready-to-use dataset for data science/machine learning projects:
 
-- [Python package](https://github.com/AashitaK/nyt-comments) to retrieve comments from a customized search of the NYT articles concerning a specific topic in a given timeline and to preprocess the data into pandas dataframes with an option to store them as csv files. 
+1. The main function ``get_dataset`` returns two dataframes - one each for the articles and the comments on them. The retrieval can be customized based on a number of optional parameters such as a specific timeline for the articles, search keywords, filter queries based on a number of options such as the week of the day, the word count of the articles, source, etc., maximum limit on the number of comments or articles or both, sorting the articles chronologically based on either the newest or oldest articles, option to suppress or activate the output log for the process, option to save the data as two `csv` files, etc. The function returns only the articles that were open to comments along with the comments on them.   
+
+2. The function ``get_articles`` can be used as an API wrapper for NYT article search API. It returns the cleaned up and preprocessed data for articles as a ready-to-use pandas dataframe (with an option to store it in ``csv`` files). The retrieval can be customized with the same options as above and unlike the above function, it returns all the articles that satisfy the search criteria.
+
+3. The function ``get_comments`` retrieves the comments on NYT article(s) given their urls. It can be used as a substitute for the comments by url option in the NYT Community API that is now deprecated and only return comments that were picked as editor's selection on account of an [unresolved issue](https://github.com/NYTimes/public_api_specs/issues/29). This function does not use NYT API for the retrieval unlike the above two.
+
 - The package is accompanied with an [illustrative tutorial](https://github.com/AashitaK/nyt-comments/blob/master/Tutorial.ipynb) for its use containing detailed information regarding the functions and their parameters.
-- A [dataset](https://www.kaggle.com/aashita/nyt-comments) comprising of over 700,000 comments with 33 features and over 3,000 articles with 16 features contributed to Kaggle along with the ideas for models that can be built using the dataset.
 - [Exploratory data analysis](https://www.kaggle.com/aashita/nyt-comments-eda) of the features contained in the comments' and articles' dataset with statistical graphs. 
+
 - [Logistic regression model](https://www.kaggle.com/aashita/starter-kernel-for-predicting-nyt-s-pick/log) built with features generated using Tfidf vectorizer on words and character n-grams of comments' text to predict the probability that a certain comment will be selected as NYT's pick. 
 - [Word clouds](http://www.aashitak.com/data%20science/Wordclouds) from the dataset for fun. 
 
