@@ -16,7 +16,7 @@ I am a recent math PhD graduate and a machine learning enthusiast. Below are som
   3. The function **get_comments** retrieves the comments on NYT article(s) given their URLs. It can be used as a substitute for the comments by URL option in the NYT Community API that is now deprecated and has an [unresolved issue](https://github.com/NYTimes/public_api_specs/issues/29). This function does not use NYT API for the retrieval unlike the above two.
 - The package is accompanied with an [illustrative tutorial](https://github.com/AashitaK/nyt-comments/blob/master/Tutorial.ipynb) for its use containing detailed information regarding the functions and their parameters.
 - [Exploratory data analysis](https://www.kaggle.com/aashita/nyt-comments-eda) of the features contained in the comments' and articles' dataset with statistical graphs. 
-- [Logistic regression model](https://www.kaggle.com/aashita/starter-kernel-for-predicting-nyt-s-pick/log) built with features generated using Tfidf vectorizer on words and character n-grams of comments' text to predict the probability that a certain comment will be selected as NYT's pick. 
+- [Logistic regression model](https://www.kaggle.com/aashita/starter-kernel-for-predicting-nyt-s-pick/log) built with features generated using Tfidf vectorizer on words and character n-grams of comments' text to predict the probability that a certain comment will be selected as a NYT's pick. 
 - [Word clouds](http://www.aashitak.com/data%20science/Wordclouds) from the dataset for fun. 
 
 [Here](/images/Aashita_resume.pdf) is a link to my resume and some of my past projects can be found at the following links:
