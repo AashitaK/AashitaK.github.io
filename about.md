@@ -21,9 +21,9 @@ I am a recent math PhD graduate and a machine learning enthusiast. Below are som
   2. NB-Logistic Regression model inspired from the paper [Baselines and Bigrams: Simple, Good Sentiment and Topic Classiﬁcation](https://nlp.stanford.edu/pubs/sidaw12_simple_sentiment.pdf) by Sida Wang and Chris Manning.
 - [Word clouds](http://www.aashitak.com/data%20science/Wordclouds) from the dataset for fun. 
 
-[Here](/images/Aashita_resume.pdf) is a link to my resume and some of my past projects can be found at the following links:
+Some of my past projects can be found at the following links:
 
-[//]: #(![Aashita Kesarwani](/images/Aashita_resume.jpg){:width="1080px"})
+[//]: #(![Here](/images/Aashita_resume.pdf) is a link to my resume [Aashita Kesarwani](/images/Aashita_resume.jpg){:width="1080px"})
 
 
 - [Titanic survival prediction](https://www.kaggle.com/aashita/xgboost-model-with-minimalistic-features) (Top 3% score in Kaggle competition)
