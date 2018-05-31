@@ -18,18 +18,15 @@ Most common words in all of the comments:
 
 Here I am trying to insert the graph
 
-
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~AashitaK/24.embed"></iframe>
-
 <pre>
-![Wordcloud on comments in NYT]({{ site.url }}/images/Wordclouds/wc1.png)
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~AashitaK/24.embed"></iframe>
 </pre>
+
+![Wordcloud on comments in NYT]({{ site.url }}/images/Wordclouds/wc1.png)
 
 Most common words in the top 1% most upvoted comments:
 
-
 ![Wordcloud on comments in NYT]({{ site.url }}/images/Wordclouds/wc2.png)
-
 
 Most common words in the comments selected as NYT's pick:
 
