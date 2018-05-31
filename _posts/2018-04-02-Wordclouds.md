@@ -11,6 +11,7 @@ comments: true
 share: true
 mathjax:
 ---
+For some reason, the changes
 
 Word clouds from the [data comprising the readers' comments](https://www.kaggle.com/aashita/nyt-comments) on articles published in New York Times in March 2018 and Jan-Feb 2017 are given below.
 
