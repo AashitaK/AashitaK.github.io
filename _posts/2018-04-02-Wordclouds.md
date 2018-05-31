@@ -16,10 +16,8 @@ Word clouds from the [data comprising the readers' comments](https://www.kaggle.
 
 Most common words in all of the comments:
 
-Here I am trying to insert the graph
-
 <pre>
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~AashitaK/24.embed"></iframe>
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~kai1992cool/20.embed"></iframe>
 </pre>
 
 ![Wordcloud on comments in NYT]({{ site.url }}/images/Wordclouds/wc1.png)
