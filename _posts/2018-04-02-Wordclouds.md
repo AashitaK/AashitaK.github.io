@@ -16,6 +16,7 @@ Word clouds from the [data comprising the readers' comments](https://www.kaggle.
 
 Most common words in all of the comments:
 
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~kai1992cool/20.embed"></iframe>
 
 ![Wordcloud on comments in NYT]({{ site.url }}/images/Wordclouds/wc1.png)
 
