@@ -22,8 +22,7 @@ Below are some of the links detailing my recent project concerning comments post
 - [Bag of words models](https://www.kaggle.com/aashita/predicting-nyt-s-pick) to predict the probability that a certain comment will be selected as a NYT's pick. 
   1. Logistic Regression model coupled with Latent Semantic Analysis (LSA) on Tf-Idf vectors of words and character n-grams of comments' text.
   2. NB-Logistic Regression model inspired from the paper [Baselines and Bigrams: Simple, Good Sentiment and Topic Classiﬁcation](https://nlp.stanford.edu/pubs/sidaw12_simple_sentiment.pdf) by Sida Wang and Chris Manning.
-- Trained [a twitter bot](https://twitter.com/) to comment on current affairs using the Markov chain model on the above dataset.
-- Trained the twitter bot [@OnAffairs](https://twitter.com/OnAffairs) to comment on current affairs using the Markov chain model on the dataset.
+[//]: #(! - Trained the twitter bot [@OnAffairs](https://twitter.com/OnAffairs) to comment on current affairs using the Markov chain model on the dataset.)
 - [Word clouds](http://www.aashitak.com/data%20science/Wordclouds) for the visualization of the textual data for fun. 
 
 Some of my past projects can be found at the following links:
