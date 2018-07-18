@@ -9,7 +9,7 @@ mathjax: true
 ---
 I am a recent math PhD graduate and a machine learning enthusiast. 
 
-I have recently released a python package named [Bubbly](https://pypi.org/project/bubbly/) for plotting interactive and animated bubble charts using plotly. The animated bubble charts can accommodate six variables in total viz. X-axis, Y-axis, time, dots, their size and their color in a compact and captivating way. The function bubbleplot is easy to use with plenty of customization suitable for use with plotly [as demonstrated here](https://www.kaggle.com/aashita/guide-to-animated-bubble-charts-using-plotly).
+I have recently released a python package named [Bubbly](https://pypi.org/project/bubbly/) for plotting interactive and animated bubble charts using plotly. The animated bubble charts can accommodate six variables in total viz. X-axis, Y-axis, time, dots, their size and their color in a compact and captivating way. The function bubbleplot is easy to use with plenty of customization suitable for use with plotly [as demonstrated in the notebook here](https://www.kaggle.com/aashita/guide-to-animated-bubble-charts-using-plotly).
 
 ![Bubble plot](/images/bubblechart.gif)
 
