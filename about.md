@@ -11,6 +11,8 @@ I am a recent math PhD graduate and a machine learning enthusiast.
 
 I have recently released a python package named [Bubbly](https://pypi.org/project/bubbly/) for plotting interactive and animated bubble charts using plotly. The animated bubble charts can accommodate six variables in total viz. X-axis, Y-axis, time, dots, their size and their color in a compact and captivating way. The function bubbleplot is easy to use with plenty of customization suitable for use with plotly [as demonstrated here](https://www.kaggle.com/aashita/guide-to-animated-bubble-charts-using-plotly).
 
+<a href="https://imgflip.com/gif/2e98qu"><img src="https://i.imgflip.com/2e98qu.gif" title="made at imgflip.com"/></a>
+
 Below are some of the links detailing my recent project concerning comments posted on New York Times articles.
 - A [dataset](https://www.kaggle.com/aashita/nyt-comments), that was [among the 20 featured datasets](https://www.kaggle.com/aashita/nyt-comments) on Kaggle, comprised of over 1.2 million comments with 34 variables and over 9,000 articles with 16 variables along with the ideas for data science projects.
 - A [Python package](https://github.com/AashitaK/nyt-comments) that includes three main functions to perform three distinct tasks involving the retrieval of comments' and articles' from New York Times as ready-to-use dataset for data science/machine learning projects:
