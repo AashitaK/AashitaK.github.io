@@ -15,8 +15,8 @@ An easy-to-use python package for plotting interactive and animated bubble chart
 
 ![Bubble plot](/images/bubblechart.gif)
 
-- [nytcomments](https://pypi.org/project/nytcomments/) (Author and Maintainer) 
-A [Python package](https://github.com/AashitaK/nyt-comments) that includes three main functions to perform three distinct tasks involving the retrieval of comments' and articles' from New York Times as ready-to-use dataset for data science/machine learning projects:
+- [nytcomments](https://pypi.org/project/nytcomments/) (Author and Maintainer)   
+A Python package that includes three main functions to perform three distinct tasks involving the retrieval of comments' and articles' from New York Times as ready-to-use dataset for data science/machine learning projects:
     1. The main function **get_dataset** returns two dataframes - one each for the articles and the respective comments. The retrieval can be customized based on a number of parameters such as a specific timeline for the articles, search keywords, filter queries, etc.   
     2. The function **get_articles** is an API wrapper for NYT article search API, that returns the cleaned up and preprocessed data for articles as a ready-to-use pandas dataframe (or csv files) and the retrieval can be customized with the same options as above.
     3. The function **get_comments** retrieves the comments on NYT article(s) given their URLs. It can be used as a substitute for the comments by URL option in the NYT Community API that is now deprecated and has an [unresolved issue](https://github.com/NYTimes/public_api_specs/issues/29). This function does not use NYT API for the retrieval unlike the above two.
