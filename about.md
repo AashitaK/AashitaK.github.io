@@ -30,8 +30,8 @@ Project concerning comments posted on New York Times articles:
   1. Logistic Regression model coupled with Latent Semantic Analysis (LSA) on Tf-Idf vectors of words and character n-grams of comments' text.
   2. NB-Logistic Regression model inspired from the paper [Baselines and Bigrams: Simple, Good Sentiment and Topic Classiﬁcation](https://nlp.stanford.edu/pubs/sidaw12_simple_sentiment.pdf) by Sida Wang and Chris Manning.
   
-More cool projects related to NYT dataset:
-- Trained a twitter bot [@OnAffairs](https://twitter.com/OnAffairs) to comment on current affairs using the Markov chain model on comments from NYT articles. [[Code]](https://github.com/AashitaK/CurrentOnAffairs)
+Cool projects related to NYT dataset:
+- An automated twitter bot [@OnAffairs](https://twitter.com/OnAffairs) trained to comment on current affairs using the Markov chain model on comments from NYT articles. [[Code]](https://github.com/AashitaK/CurrentOnAffairs)
 - [Word clouds](http://www.aashitak.com/data%20science/Wordclouds) of various shapes for the visualization of different  textual features from the NYT articles' and comments' dataset.
 
 Some of my past projects can be found at the following links:
@@ -41,7 +41,7 @@ Some of my past projects can be found at the following links:
 - [Plotting record temperatures for New Orleans](http://www.aashitak.com/projects/Plotting-Temperatures-NOLA)
 - [Extraction of dates from medical records](https://github.com/AashitaK/aashitak.github.io/blob/master/_posts/Extracting%20dates%20from%20medical%20records.ipynb)
 
-My PhD thesis titled \textit{Theory of the generalized modified Bessel function $K_{z,w}(x)$ and $2$-adic valuations of integer sequences} is linked [here](https://digitallibrary.tulane.edu/islandora/object/tulane%253A77514).
+My PhD thesis titled \textit{Theory of the generalized modified Bessel function \\(K_{z,w}(x)\\) and \\(2\\)-adic valuations of integer sequences} is linked [here](https://digitallibrary.tulane.edu/islandora/object/tulane%253A77514).
 
 [//]: #(![Here](/images/Aashita_resume.pdf) is a link to my resume [Aashita Kesarwani](/images/Aashita_resume.jpg){:width="1080px"})
 
