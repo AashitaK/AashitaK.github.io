@@ -9,7 +9,7 @@ mathjax: true
 ---
 I am a recent math PhD graduate with a passion for data and machine learning. I am especially interested in two particular areas - data visualizations and natural language processing.
 
-Open source contributions: 
+Open source contributions related to data science: 
 - [Bubbly](https://pypi.org/project/bubbly/) (Author and Maintainer)  
 An easy-to-use python package for plotting interactive and animated bubble charts using plotly. The animated bubble charts can accommodate upto seven variables in total viz. X-axis, Y-axis, Z-axis, time, dots, their size and their color in a compact and captivating way with plenty of customization and can be used with plotly [as demonstrated in the notebook here](https://www.kaggle.com/aashita/guide-to-animated-bubble-charts-using-plotly).
 
@@ -41,6 +41,7 @@ Some of my past projects can be found at the following links:
 - [Plotting record temperatures for New Orleans](http://www.aashitak.com/projects/Plotting-Temperatures-NOLA)
 - [Extraction of dates from medical records](https://github.com/AashitaK/aashitak.github.io/blob/master/_posts/Extracting%20dates%20from%20medical%20records.ipynb)
 
+My PhD thesis titled \textit{Theory of the generalized modified Bessel function $K_{z,w}(x)$ and $2$-adic valuations of integer sequences} is linked [here](https://digitallibrary.tulane.edu/islandora/object/tulane%253A77514).
 
 [//]: #(![Here](/images/Aashita_resume.pdf) is a link to my resume [Aashita Kesarwani](/images/Aashita_resume.jpg){:width="1080px"})
 
