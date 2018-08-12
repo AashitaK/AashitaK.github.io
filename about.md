@@ -44,16 +44,4 @@ Some of my past projects can be found at the following links:
 
 [//]: #(![Here](/images/Aashita_resume.pdf) is a link to my resume [Aashita Kesarwani](/images/Aashita_resume.jpg){:width="1080px"})
 
-
-
-[//]: #([Below](https://www.linkedin.com/in/aashita-kesarwani) is my LinkedIn profile:
-<pre>
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<!--div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="aashita-kesarwani"><a class="LI-simple-link" href='https://www.linkedin.com/in/aashita-kesarwani?trk=profile-badge'>Aashita Kesarwani</a></div-->
-<!--div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="aashita-kesarwani"><a class="LI-simple-link" href='https://www.linkedin.com/in/aashita-kesarwani?trk=profile-badge'>Aashita Kesarwani</a></div-->
-<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="aashita-kesarwani"><a class="LI-simple-link" href='https://www.linkedin.com/in/aashita-kesarwani?trk=profile-badge'>Aashita Kesarwani</a></div>
-</pre>
-
-[Here](https://github.com/AashitaK) is the link to my GitHub account containing some of the simple projects I completed recently as I am learning tools for data science and machine learning.)
-
 Please feel free to contact me at [contact@aashitak.com](mailto:contact@aashitak.com) or connect with me in other platforms (Kaggle/LinkedIn/Github) using the icons at the bottom bar of the website.
