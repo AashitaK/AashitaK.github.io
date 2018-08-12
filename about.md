@@ -34,7 +34,7 @@ Cool projects related to NYT dataset:
 - An automated twitter bot [@OnAffairs](https://twitter.com/OnAffairs) trained to comment on current affairs using the Markov chain model on comments from NYT articles. [[Code]](https://github.com/AashitaK/CurrentOnAffairs)
 - [Word clouds](http://www.aashitak.com/data%20science/Wordclouds) of various shapes for the visualization of different  textual features from the NYT articles' and comments' dataset.
 
-Some of my past projects can be found at the following links:
+Some of my short projects in data science can be found at the following links:
 - [Titanic survival prediction](https://www.kaggle.com/aashita/xgboost-model-with-minimalistic-features) (Top 3% score in Kaggle competition)
 - Feature Engineering for [2018 NCAA Division I Men’s Basketball Championships](https://www.kaggle.com/aashita/feature-engineering-for-march-madness) predictions
 - [The effect of recession on housing prices in university towns](http://www.aashitak.com/projects/Testing-Hypothesis)
