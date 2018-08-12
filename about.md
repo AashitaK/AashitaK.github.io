@@ -24,26 +24,27 @@ The package is accompanied with an [illustrative tutorial](https://github.com/Aa
 
 - A [dataset](https://www.kaggle.com/aashita/nyt-comments) contributed to Kaggle, that was [among the 20 featured datasets](https://www.kaggle.com/aashita/nyt-comments), comprised of over 1.2 million comments with 34 variables and over 9,000 articles with 16 variables along with the ideas for data science projects.
  
-Below are the links detailing my recent project concerning comments posted on New York Times articles.
+Project concerning comments posted on New York Times articles:
 - [Exploratory data analysis](https://www.kaggle.com/aashita/exploratory-data-analysis-of-comments-on-nyt) of the features contained in the comments' and articles' dataset with statistical graphs. 
 - [Bag of words models](https://www.kaggle.com/aashita/predicting-nyt-s-pick) to predict the probability that a certain comment will be selected as a NYT's pick. 
   1. Logistic Regression model coupled with Latent Semantic Analysis (LSA) on Tf-Idf vectors of words and character n-grams of comments' text.
   2. NB-Logistic Regression model inspired from the paper [Baselines and Bigrams: Simple, Good Sentiment and Topic Classiﬁcation](https://nlp.stanford.edu/pubs/sidaw12_simple_sentiment.pdf) by Sida Wang and Chris Manning.
   
-Some cool projects
+More cool projects related to NYT comments' dataset:
 - Trained the twitter bot [@OnAffairs](https://twitter.com/OnAffairs) to comment on current affairs using the Markov chain model on the dataset.
 - [Word clouds](http://www.aashitak.com/data%20science/Wordclouds) for the visualization of the textual data for fun. 
 
 Some of my past projects can be found at the following links:
-
-[//]: #(![Here](/images/Aashita_resume.pdf) is a link to my resume [Aashita Kesarwani](/images/Aashita_resume.jpg){:width="1080px"})
-
-
 - [Titanic survival prediction](https://www.kaggle.com/aashita/xgboost-model-with-minimalistic-features) (Top 3% score in Kaggle competition)
 - Feature Engineering for [2018 NCAA Division I Men’s Basketball Championships](https://www.kaggle.com/aashita/feature-engineering-for-march-madness) predictions
 - [The effect of recession on housing prices in university towns](http://www.aashitak.com/projects/Testing-Hypothesis)
 - [Plotting record temperatures for New Orleans](http://www.aashitak.com/projects/Plotting-Temperatures-NOLA)
 - [Extraction of dates from medical records](https://github.com/AashitaK/aashitak.github.io/blob/master/_posts/Extracting%20dates%20from%20medical%20records.ipynb)
+
+
+[//]: #(![Here](/images/Aashita_resume.pdf) is a link to my resume [Aashita Kesarwani](/images/Aashita_resume.jpg){:width="1080px"})
+
+
 
 [//]: #([Below](https://www.linkedin.com/in/aashita-kesarwani) is my LinkedIn profile:
 <pre>
