@@ -30,7 +30,7 @@ Project concerning comments posted on New York Times articles:
   1. Logistic Regression model coupled with Latent Semantic Analysis (LSA) on Tf-Idf vectors of words and character n-grams of comments' text.
   2. NB-Logistic Regression model inspired from the paper [Baselines and Bigrams: Simple, Good Sentiment and Topic Classiﬁcation](https://nlp.stanford.edu/pubs/sidaw12_simple_sentiment.pdf) by Sida Wang and Chris Manning.
   
-More cool projects related to NYT comments' dataset:
+More cool projects related to NYT dataset:
 - Trained a twitter bot [@OnAffairs](https://twitter.com/OnAffairs) to comment on current affairs using the Markov chain model on comments from NYT articles. [[Code]](https://github.com/AashitaK/CurrentOnAffairs)
 - [Word clouds](http://www.aashitak.com/data%20science/Wordclouds) of various shapes for the visualization of different  textual features from the NYT articles' and comments' dataset.
 
