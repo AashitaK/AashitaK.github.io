@@ -22,7 +22,7 @@ A Python package that includes three main functions to perform three distinct ta
     3. The function **get_comments** retrieves the comments on NYT article(s) given their URLs. It can be used as a substitute for the comments by URL option in the NYT Community API that is now deprecated and has an [unresolved issue](https://github.com/NYTimes/public_api_specs/issues/29). This function does not use NYT API for the retrieval unlike the above two.
 The package is accompanied with an [illustrative tutorial](https://github.com/AashitaK/nyt-comments/blob/master/Tutorial.ipynb) for its use containing detailed information regarding the functions and their parameters. 
 
-- A [dataset](https://www.kaggle.com/aashita/nyt-comments) contributed to Kaggle, that was [among the 20 featured datasets](https://www.kaggle.com/aashita/nyt-comments), comprised of over 1.2 million comments with 34 variables and over 9,000 articles with 16 variables along with the ideas for data science projects.
+- A [dataset](https://www.kaggle.com/aashita/nyt-comments) contributed to Kaggle, that was among the 20 featured datasets, comprised of over 1.2 million comments with 34 variables and over 9,000 articles with 16 variables along with the ideas for data science projects.
  
 Project concerning comments posted on New York Times articles:
 - [Exploratory data analysis](https://www.kaggle.com/aashita/exploratory-data-analysis-of-comments-on-nyt) of the features contained in the comments' and articles' dataset with statistical graphs. 
