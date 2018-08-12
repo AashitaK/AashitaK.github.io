@@ -31,8 +31,8 @@ Project concerning comments posted on New York Times articles:
   2. NB-Logistic Regression model inspired from the paper [Baselines and Bigrams: Simple, Good Sentiment and Topic Classiﬁcation](https://nlp.stanford.edu/pubs/sidaw12_simple_sentiment.pdf) by Sida Wang and Chris Manning.
   
 More cool projects related to NYT comments' dataset:
-- Trained a twitter bot [@OnAffairs](https://twitter.com/OnAffairs) to comment on current affairs using the Markov chain model on the dataset. [[Code]](https://github.com/AashitaK/CurrentOnAffairs)
-- [Word clouds](http://www.aashitak.com/data%20science/Wordclouds) for the visualization of the textual data for fun. 
+- Trained a twitter bot [@OnAffairs](https://twitter.com/OnAffairs) to comment on current affairs using the Markov chain model on comments from NYT articles. [[Code]](https://github.com/AashitaK/CurrentOnAffairs)
+- [Word clouds](http://www.aashitak.com/data%20science/Wordclouds) of various shapes for the visualization of different  textual features from the NYT articles' and comments' dataset.
 
 Some of my past projects can be found at the following links:
 - [Titanic survival prediction](https://www.kaggle.com/aashita/xgboost-model-with-minimalistic-features) (Top 3% score in Kaggle competition)
