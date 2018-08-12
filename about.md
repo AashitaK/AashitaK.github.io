@@ -55,4 +55,4 @@ Some of my past projects can be found at the following links:
 
 [Here](https://github.com/AashitaK) is the link to my GitHub account containing some of the simple projects I completed recently as I am learning tools for data science and machine learning.)
 
-Please feel free to contact me at [contact@aashitak.com](mailto:contact@aashitak.com) or connect with me in other platforms using the icons at the bottom bar of the website.
+Please feel free to contact me at [contact@aashitak.com](mailto:contact@aashitak.com) or connect with me in other platforms (Kaggle/LinkedIn/Github) using the icons at the bottom bar of the website.
