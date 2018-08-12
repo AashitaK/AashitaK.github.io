@@ -45,4 +45,4 @@ My PhD thesis titled \textit{Theory of the generalized modified Bessel function 
 
 [//]: #(![Here](/images/Aashita_resume.pdf) is a link to my resume [Aashita Kesarwani](/images/Aashita_resume.jpg){:width="1080px"})
 
-Please feel free to contact me at [contact@aashitak.com](mailto:contact@aashitak.com) or connect with me in other platforms (Kaggle/LinkedIn/Github) using the icons at the bottom bar of the website.
+Please feel free to contact me at [contact@aashitak.com](mailto:contact@aashitak.com) or connect with me in other platforms (Github/LinkedIn/Kaggle) using the icons at the bottom bar of the website.
