@@ -15,7 +15,7 @@ An easy-to-use python package for plotting interactive and animated bubble chart
 
 ![Bubble plot](/images/bubblechart.gif)
 
-- nytcomments
+- [nytcomments](https://pypi.org/project/nytcomments/) (Author and Maintainer) 
 A [Python package](https://github.com/AashitaK/nyt-comments) that includes three main functions to perform three distinct tasks involving the retrieval of comments' and articles' from New York Times as ready-to-use dataset for data science/machine learning projects:
     1. The main function **get_dataset** returns two dataframes - one each for the articles and the respective comments. The retrieval can be customized based on a number of parameters such as a specific timeline for the articles, search keywords, filter queries, etc.   
     2. The function **get_articles** is an API wrapper for NYT article search API, that returns the cleaned up and preprocessed data for articles as a ready-to-use pandas dataframe (or csv files) and the retrieval can be customized with the same options as above.
@@ -24,13 +24,13 @@ The package is accompanied with an [illustrative tutorial](https://github.com/Aa
 
 - A [dataset](https://www.kaggle.com/aashita/nyt-comments) contributed to Kaggle, that was [among the 20 featured datasets](https://www.kaggle.com/aashita/nyt-comments), comprised of over 1.2 million comments with 34 variables and over 9,000 articles with 16 variables along with the ideas for data science projects.
  
-Below are some of the links detailing my recent project concerning comments posted on New York Times articles.
-  
-
+Below are the links detailing my recent project concerning comments posted on New York Times articles.
 - [Exploratory data analysis](https://www.kaggle.com/aashita/exploratory-data-analysis-of-comments-on-nyt) of the features contained in the comments' and articles' dataset with statistical graphs. 
 - [Bag of words models](https://www.kaggle.com/aashita/predicting-nyt-s-pick) to predict the probability that a certain comment will be selected as a NYT's pick. 
   1. Logistic Regression model coupled with Latent Semantic Analysis (LSA) on Tf-Idf vectors of words and character n-grams of comments' text.
   2. NB-Logistic Regression model inspired from the paper [Baselines and Bigrams: Simple, Good Sentiment and Topic Classiﬁcation](https://nlp.stanford.edu/pubs/sidaw12_simple_sentiment.pdf) by Sida Wang and Chris Manning.
+  
+Some cool projects
 - Trained the twitter bot [@OnAffairs](https://twitter.com/OnAffairs) to comment on current affairs using the Markov chain model on the dataset.
 - [Word clouds](http://www.aashitak.com/data%20science/Wordclouds) for the visualization of the textual data for fun. 
 
