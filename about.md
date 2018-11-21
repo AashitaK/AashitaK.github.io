@@ -7,7 +7,8 @@ imagefeature:
 chart: true
 mathjax: true 
 ---
-I am a Math PhD graduate with a passion for data and machine learning. I am especially interested in two particular areas - data visualizations and natural language processing.
+
+I am a Math PhD graduate with a passion for data and machine learning. I am especially interested in two particular areas - data visualizations and natural language processing. I have recently joined Harvey Mudd College as a Scientific Computing Specialist.
 
 Open source contributions related to data science: 
 - [Bubbly](https://pypi.org/project/bubbly/) (Author and Maintainer)  
